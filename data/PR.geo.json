@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -67,
+                                18.5
+                            ],
+                            [
+                                -65.6,
+                                18.23
+                            ],
+                            [
+                                -67.19,
+                                17.93
+                            ],
+                            [
+                                -67,
+                                18.5
+                            ]
+                        ]
+                    ]
+                ],
+                "type": "MultiPolygon"
+            },
+            "id": "PR",
+            "properties": {
+                "name": "Puerto Rico"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

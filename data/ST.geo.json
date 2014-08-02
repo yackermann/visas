@@ -1,0 +1,57 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            [
+                                6.52,
+                                0.02
+                            ],
+                            [
+                                6.47,
+                                0.26
+                            ],
+                            [
+                                6.69,
+                                0.4
+                            ],
+                            [
+                                6.52,
+                                0.02
+                            ]
+                        ]
+                    ],
+                    [
+                        [
+                            [
+                                7.42,
+                                1.56
+                            ],
+                            [
+                                7.33,
+                                1.61
+                            ],
+                            [
+                                7.41,
+                                1.7
+                            ],
+                            [
+                                7.42,
+                                1.56
+                            ]
+                        ]
+                    ]
+                ],
+                "type": "MultiPolygon"
+            },
+            "id": "ST",
+            "properties": {
+                "name": "Sao Tome and Principe"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

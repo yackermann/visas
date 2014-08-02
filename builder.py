@@ -6,14 +6,13 @@ data = {
 	"type" : "FeatureCollection",
 	"features": []
 }
-bfolder = "countries"
+bfolder = "data"
 for file in os.listdir(bfolder):
 	if file.endswith(".geo.json"):
 		with open(bfolder + "/"+ file) as f:
-			data["features"].append(json.loads(f.read()))
+			data["features"].append(json.loads(f.read())["features"][0])
 
 
-data["build_time"] = datetime.datetime.utcnow().isoformat()
 
 with open("world.geo.json", "w") as w:
 	w.write(json.dumps(data))

@@ -1,0 +1,41 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            [
+                                6.03,
+                                50.18
+                            ],
+                            [
+                                6.13,
+                                50.13
+                            ],
+                            [
+                                6.36,
+                                49.46
+                            ],
+                            [
+                                5.81,
+                                49.55
+                            ],
+                            [
+                                6.03,
+                                50.18
+                            ]
+                        ]
+                    ]
+                ],
+                "type": "MultiPolygon"
+            },
+            "id": "LU",
+            "properties": {
+                "name": "Luxembourg"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

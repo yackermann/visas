@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            [
+                                55.71,
+                                -21
+                            ],
+                            [
+                                55.67,
+                                -21.37
+                            ],
+                            [
+                                55.22,
+                                -21.03
+                            ],
+                            [
+                                55.71,
+                                -21
+                            ]
+                        ]
+                    ]
+                ],
+                "type": "MultiPolygon"
+            },
+            "id": "RE",
+            "properties": {
+                "name": "Reunion"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

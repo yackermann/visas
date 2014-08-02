@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            [
+                                72.49,
+                                -7.38
+                            ],
+                            [
+                                72.36,
+                                -7.27
+                            ],
+                            [
+                                72.45,
+                                -7.23
+                            ],
+                            [
+                                72.49,
+                                -7.38
+                            ]
+                        ]
+                    ]
+                ],
+                "type": "MultiPolygon"
+            },
+            "id": "IO",
+            "properties": {
+                "name": "British Indian Ocean Territory"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
