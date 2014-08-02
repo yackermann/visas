@@ -1,0 +1,32 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    [
+                        57.57,
+                        -20.51
+                    ],
+                    [
+                        57.3,
+                        -20.45
+                    ],
+                    [
+                        57.62,
+                        -19.99
+                    ],
+                    [
+                        57.57,
+                        -20.51
+                    ]
+                ]
+            ]
+        ],
+        "type": "MultiPolygon"
+    },
+    "id": "MU",
+    "properties": {
+        "name": "Mauritius"
+    },
+    "type": "Feature"
+}

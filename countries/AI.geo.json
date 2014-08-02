@@ -1,0 +1,32 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    [
+                        -63.17,
+                        18.16
+                    ],
+                    [
+                        -62.97,
+                        18.27
+                    ],
+                    [
+                        -62.99,
+                        18.23
+                    ],
+                    [
+                        -63.17,
+                        18.16
+                    ]
+                ]
+            ]
+        ],
+        "type": "MultiPolygon"
+    },
+    "id": "AI",
+    "properties": {
+        "name": "Anguilla"
+    },
+    "type": "Feature"
+}

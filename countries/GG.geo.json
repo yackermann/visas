@@ -1,0 +1,32 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    [
+                        -2.59,
+                        49.42
+                    ],
+                    [
+                        -2.67,
+                        49.43
+                    ],
+                    [
+                        -2.5,
+                        49.51
+                    ],
+                    [
+                        -2.59,
+                        49.42
+                    ]
+                ]
+            ]
+        ],
+        "type": "MultiPolygon"
+    },
+    "id": "GG",
+    "properties": {
+        "name": "Guernsey"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,32 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    [
+                        144.71,
+                        13.23
+                    ],
+                    [
+                        144.66,
+                        13.43
+                    ],
+                    [
+                        144.88,
+                        13.65
+                    ],
+                    [
+                        144.71,
+                        13.23
+                    ]
+                ]
+            ]
+        ],
+        "type": "MultiPolygon"
+    },
+    "id": "GU",
+    "properties": {
+        "name": "Guam"
+    },
+    "type": "Feature"
+}

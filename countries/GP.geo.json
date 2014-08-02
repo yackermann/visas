@@ -1,0 +1,32 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    [
+                        -61.35,
+                        16.33
+                    ],
+                    [
+                        -61.7,
+                        15.95
+                    ],
+                    [
+                        -61.78,
+                        16.33
+                    ],
+                    [
+                        -61.35,
+                        16.33
+                    ]
+                ]
+            ]
+        ],
+        "type": "MultiPolygon"
+    },
+    "id": "GP",
+    "properties": {
+        "name": "Guadeloupe"
+    },
+    "type": "Feature"
+}

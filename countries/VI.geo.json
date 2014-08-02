@@ -1,0 +1,32 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    [
+                        -64.76,
+                        17.77
+                    ],
+                    [
+                        -64.56,
+                        17.75
+                    ],
+                    [
+                        -64.9,
+                        17.68
+                    ],
+                    [
+                        -64.76,
+                        17.77
+                    ]
+                ]
+            ]
+        ],
+        "type": "MultiPolygon"
+    },
+    "id": "VI",
+    "properties": {
+        "name": "Virgin Islands"
+    },
+    "type": "Feature"
+}

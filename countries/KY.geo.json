@@ -1,0 +1,32 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    [
+                        -81.1,
+                        19.31
+                    ],
+                    [
+                        -81.4,
+                        19.29
+                    ],
+                    [
+                        -81.25,
+                        19.35
+                    ],
+                    [
+                        -81.1,
+                        19.31
+                    ]
+                ]
+            ]
+        ],
+        "type": "MultiPolygon"
+    },
+    "id": "KY",
+    "properties": {
+        "name": "Cayman Islands"
+    },
+    "type": "Feature"
+}

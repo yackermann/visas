@@ -1,0 +1,32 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    [
+                        -63.01,
+                        18.08
+                    ],
+                    [
+                        -63.01,
+                        18.07
+                    ],
+                    [
+                        -63.14,
+                        18.06
+                    ],
+                    [
+                        -63.01,
+                        18.08
+                    ]
+                ]
+            ]
+        ],
+        "type": "MultiPolygon"
+    },
+    "id": "MF",
+    "properties": {
+        "name": "Saint Martin"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,32 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    [
+                        -60.95,
+                        13.71
+                    ],
+                    [
+                        -61.08,
+                        13.88
+                    ],
+                    [
+                        -60.93,
+                        14.11
+                    ],
+                    [
+                        -60.95,
+                        13.71
+                    ]
+                ]
+            ]
+        ],
+        "type": "MultiPolygon"
+    },
+    "id": "LC",
+    "properties": {
+        "name": "Saint Lucia"
+    },
+    "type": "Feature"
+}

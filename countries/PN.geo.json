@@ -1,0 +1,32 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    [
+                        -128.29,
+                        -24.41
+                    ],
+                    [
+                        -128.34,
+                        -24.33
+                    ],
+                    [
+                        -128.3,
+                        -24.33
+                    ],
+                    [
+                        -128.29,
+                        -24.41
+                    ]
+                ]
+            ]
+        ],
+        "type": "MultiPolygon"
+    },
+    "id": "PN",
+    "properties": {
+        "name": "Pitcairn Islands"
+    },
+    "type": "Feature"
+}

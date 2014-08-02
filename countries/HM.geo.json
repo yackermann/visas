@@ -1,0 +1,32 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    [
+                        73.77,
+                        -53.13
+                    ],
+                    [
+                        73.47,
+                        -53.19
+                    ],
+                    [
+                        73.23,
+                        -52.99
+                    ],
+                    [
+                        73.77,
+                        -53.13
+                    ]
+                ]
+            ]
+        ],
+        "type": "MultiPolygon"
+    },
+    "id": "HM",
+    "properties": {
+        "name": "Heard Island and McDonald Islands"
+    },
+    "type": "Feature"
+}
