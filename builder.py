@@ -16,9 +16,6 @@ for file in os.listdir(bfolder):
 with open("dist/world.geo.json", "w") as w:
 	w.write(json.dumps(data))
 
-with open("world.geo.json", "w") as w:
-	w.write(json.dumps(data, sort_keys=True, indent=4, separators=(',', ': ')))
-
 with open("countries.json") as f:
 	with open("dist/countries.json","w") as w:
 		w.write(json.dumps(json.loads(f.read())))
