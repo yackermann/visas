@@ -12,6 +12,7 @@ for file in os.listdir(bfolder):
 		with open(bfolder + "/"+ file) as f:
 			data["features"].append(json.loads(f.read())["features"][0])
 
+data["build_time"] = datetime.datetime.utcnow().isoformat()
 
 with open("dist/world.geo.json", "w") as w:
 	w.write(json.dumps(data))
