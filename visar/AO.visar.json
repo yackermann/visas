@@ -1,0 +1,145 @@
+{
+    "cca2": "",
+    "requirements": {
+        "Botswana": [
+            "f",
+            "90 days"
+        ],
+        "Burundi": [
+            "a",
+            "30 days; obtainable at Bujumbura International Airport"
+        ],
+        "Cape Verde": [
+            "a",
+            ""
+        ],
+        "Comoros": [
+            "a",
+            ""
+        ],
+        "Djibouti": [
+            "a",
+            ""
+        ],
+        "Dominica": [
+            "f",
+            "21 days"
+        ],
+        "Ecuador": [
+            "f",
+            "90 days"
+        ],
+        "Georgia": [
+            "a",
+            ""
+        ],
+        "Guinea-Bissau": [
+            "a",
+            "90 days"
+        ],
+        "Haiti": [
+            "f",
+            "3 months"
+        ],
+        "Kenya": [
+            "a",
+            "90 days"
+        ],
+        "Laos": [
+            "a",
+            "30 days"
+        ],
+        "Madagascar": [
+            "a",
+            "90 days"
+        ],
+        "Maldives": [
+            "a",
+            "30 days"
+        ],
+        "Mali": [
+            "a",
+            ""
+        ],
+        "Mauritania": [
+            "a",
+            "90 days"
+        ],
+        "Mauritius": [
+            "f",
+            ""
+        ],
+        "Micronesia": [
+            "f",
+            "30 days"
+        ],
+        "Namibia": [
+            "f",
+            "90 days"
+        ],
+        "Nepal": [
+            "a",
+            ""
+        ],
+        "Nicaragua": [
+            "a",
+            "90 days"
+        ],
+        "Palau": [
+            "a",
+            "30 days"
+        ],
+        "Philippines": [
+            "f",
+            "30 days"
+        ],
+        "Rwanda": [
+            "a",
+            ""
+        ],
+        "Saint Vincent and the Grenadines": [
+            "f",
+            "1 month"
+        ],
+        "Samoa": [
+            "a",
+            "60 days"
+        ],
+        "Seychelles": [
+            "a",
+            "1 month"
+        ],
+        "Singapore": [
+            "f",
+            "30 days"
+        ],
+        "Sri Lanka": [
+            "e",
+            "30 days"
+        ],
+        "Tanzania": [
+            "a",
+            "90 days"
+        ],
+        "Timor-Leste": [
+            "a",
+            "30 days"
+        ],
+        "Togo": [
+            "a",
+            "7 days"
+        ],
+        "Tuvalu": [
+            "a",
+            "1 month"
+        ],
+        "Uganda": [
+            "f",
+            ""
+        ],
+        "Zambia": [
+            "a",
+            "90 days"
+        ]
+    }
+}
