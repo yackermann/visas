@@ -1,0 +1,297 @@
+{
+    "cca2": "km",
+    "requirements": {
+        "Andorra": [
+            "f",
+            "Apply regulation of France or Spain."
+        ],
+        "Azerbaijan": [
+            "a",
+            "30 days"
+        ],
+        "Bangladesh": [
+            "a",
+            "90 days"
+        ],
+        "Belarus": [
+            "a",
+            "N/A"
+        ],
+        "Bermuda": [
+            "f",
+            "6 months"
+        ],
+        "Bulgaria": [
+            "f",
+            "Except for transit."
+        ],
+        "Burkina Faso": [
+            "f",
+            "Not required in extreme cases."
+        ],
+        "Burundi": [
+            "f",
+            "Visa on arrival possible if there is no diplomatic representative of burundi located in country of origin"
+        ],
+        "Cambodia": [
+            "a",
+            "30 days"
+        ],
+        "Cape Verde": [
+            "f",
+            "Not required for former nationals of cape verde islands. Visa on arrival for those coming from countries where no diplomatic representation is established."
+        ],
+        "Cook Islands": [
+            "f",
+            "31 days"
+        ],
+        "Costa Rica": [
+            "f",
+            "US, Canada or EU visa accepted."
+        ],
+        "Djibouti": [
+            "a",
+            "1 month"
+        ],
+        "Dominica": [
+            "f",
+            "21 days"
+        ],
+        "Dominican Republic": [
+            "f",
+            "US, Canada or EU visa accepted."
+        ],
+        "East Timor": [
+            "a",
+            "30 days"
+        ],
+        "Ecuador": [
+            "f",
+            "90 days"
+        ],
+        "Egypt": [
+            "a",
+            "15 days(Valid for south Sinai resorts only)"
+        ],
+        "El Salvador": [
+            "f",
+            "N/A"
+        ],
+        "Federated States of Micronesia": [
+            "f",
+            "30 days"
+        ],
+        "Georgia": [
+            "a",
+            "N/A"
+        ],
+        "Gibraltar": [
+            "f",
+            "UK visa accepted (must be valid for one year)."
+        ],
+        "Guam": [
+            "f",
+            "Same conditions as for mainland US."
+        ],
+        "Guatemala": [
+            "f",
+            "US, Canada or Schengen visa accepted."
+        ],
+        "Haiti": [
+            "f",
+            "3 months"
+        ],
+        "Honduras": [
+            "f",
+            "US, Canada or Schengen visa accepted."
+        ],
+        "Hong Kong": [
+            "f",
+            "15 days"
+        ],
+        "India": [
+            "f",
+            "Except for those holding a PIO card (Person of Indian Origin)."
+        ],
+        "Iran": [
+            "f",
+            "Need a pre-approval code obtained at www.mfa.gov.ir"
+        ],
+        "Iraq": [
+            "a",
+            "N/A (Only available at Erbil international airport)"
+        ],
+        "Jordan": [
+            "a",
+            "N/A"
+        ],
+        "Kenya": [
+            "a",
+            "3 months"
+        ],
+        "Laos": [
+            "a",
+            "30 days"
+        ],
+        "Liberia": [
+            "f",
+            "Visa exemption if coming from country without diplomatic representation of Liberia."
+        ],
+        "Macau": [
+            "a",
+            "N/A"
+        ],
+        "Macedonia": [
+            "f",
+            "Schengen visa accepted."
+        ],
+        "Madagascar": [
+            "a",
+            "90 days"
+        ],
+        "Malaysia": [
+            "f",
+            "1 month"
+        ],
+        "Maldives": [
+            "a",
+            "30 days"
+        ],
+        "Mauritius": [
+            "a",
+            "2 weeks"
+        ],
+        "Mongolia": [
+            "f",
+            "Visa on arrival if arriving from countries where there is no diplomatic representation of Mongolia."
+        ],
+        "Montenegro": [
+            "f",
+            "Visa exemption of 7 days if holding US or Schengen visa."
+        ],
+        "Mozambique": [
+            "a",
+            "30 days"
+        ],
+        "Nepal": [
+            "a",
+            "N/A"
+        ],
+        "Nicaragua": [
+            "a",
+            "N/A"
+        ],
+        "Nigeria": [
+            "f",
+            "Except for former Nigeria Nationals."
+        ],
+        "Niue": [
+            "f",
+            "30 days"
+        ],
+        "Northern Mariana Islands": [
+            "f",
+            "US visa accepted."
+        ],
+        "Pakistan": [
+            "f",
+            "Visa not needed if holding a Pakistan Origin Card (POC)."
+        ],
+        "Palau": [
+            "a",
+            "30 days"
+        ],
+        "Philippines": [
+            "f",
+            "21 days (For more than 21 days up to 59 days, visa issued upon arrival)"
+        ],
+        "Puerto Rico": [
+            "f",
+            "Except if arriving directly from US."
+        ],
+        "Saint Kitts and Nevis": [
+            "f",
+            "14 days"
+        ],
+        "Saint Lucia": [
+            "a",
+            "6 weeks"
+        ],
+        "Saint Vincent and the Grenadines": [
+            "f",
+            "1 month"
+        ],
+        "Samoa": [
+            "a",
+            "60 days"
+        ],
+        "San Marino": [
+            "f",
+            "Same rules as for italy."
+        ],
+        "Sao Tome and Principe": [
+            "a",
+            "1 month"
+        ],
+        "Seychelles": [
+            "a",
+            "1 month"
+        ],
+        "Singapore": [
+            "f",
+            "30 days"
+        ],
+        "Somalia": [
+            "f",
+            "Except if of Somali origin."
+        ],
+        "South Korea": [
+            "f",
+            "Visa exemption if holding visa or residence permit from Australia, Canada, Japan, New Zealand or USA. Visa exemption if previously entered Republic of Korea."
+        ],
+        "Sri Lanka": [
+            "a",
+            "30 days (ETA required. cost: US$ 30) "
+        ],
+        "Sudan": [
+            "f",
+            "Except if of Sudanese origin."
+        ],
+        "Syria": [
+            "f",
+            "Except if born in an arabic country."
+        ],
+        "Tanzania": [
+            "a",
+            "N/A"
+        ],
+        "Togo": [
+            "a",
+            "7 days"
+        ],
+        "Turks and Caicos Islands": [
+            "f",
+            "US, Canada or UK visa accepted."
+        ],
+        "Tuvalu": [
+            "a",
+            "1 month"
+        ],
+        "Uganda": [
+            "f",
+            "6 months"
+        ],
+        "United States Virgin Islands": [
+            "f",
+            "Except if arriving directly from US."
+        ],
+        "Uruguay": [
+            "f",
+            "Except if born in Uruguay."
+        ],
+        "Zambia": [
+            "a",
+            "90 days"
+        ]
+    }
+}

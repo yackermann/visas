@@ -1,28 +1,20 @@
 {
-    "cca2": "cm",
+    "cca2": "et",
     "requirements": {
         "Bolivia": [
             "a",
-            "90 days"
-        ],
-        "Botswana": [
-            "f",
             "90 days"
         ],
         "Burundi": [
             "a",
             "30 days; obtainable at Bujumbura International Airport"
         ],
-        "Cape Verde": [
+        "Cambodia": [
             "a",
             ""
         ],
-        "Central African Republic": [
-            "f",
-            ""
-        ],
-        "Chad": [
-            "f",
+        "Cape Verde": [
+            "a",
             ""
         ],
         "Comoros": [
@@ -43,11 +35,7 @@
         ],
         "Georgia": [
             "a",
-            ""
-        ],
-        "Grenada": [
-            "f",
-            ""
+            "360 days"
         ],
         "Guinea-Bissau": [
             "a",
@@ -57,8 +45,12 @@
             "f",
             "3 months"
         ],
-        "Lesotho": [
+        "Kenya": [
             "f",
+            "3 months"
+        ],
+        "Laos": [
+            "a",
             "30 days"
         ],
         "Madagascar": [
@@ -70,12 +62,16 @@
             "30 days"
         ],
         "Mali": [
-            "f",
+            "a",
             ""
         ],
         "Mauritania": [
             "a",
             ""
+        ],
+        "Mauritius": [
+            "a",
+            "60 days"
         ],
         "Micronesia": [
             "f",
@@ -85,12 +81,12 @@
             "a",
             "30 days"
         ],
-        "Nepal": [
+        "Nicaragua": [
             "a",
-            ""
+            "90 days"
         ],
-        "Nigeria": [
-            "f",
+        "Oman": [
+            "a",
             ""
         ],
         "Palau": [
@@ -101,21 +97,13 @@
             "f",
             "30 days"
         ],
-        "Republic of the Congo": [
-            "a",
-            ""
-        ],
         "Rwanda": [
             "a",
             ""
         ],
-        "Saint Lucia": [
-            "a",
-            "6 weeks"
-        ],
         "Saint Vincent and the Grenadines": [
             "f",
-            "1 month"
+            "30 days"
         ],
         "Samoa": [
             "a",
@@ -129,13 +117,21 @@
             "f",
             "30 days"
         ],
+        "South Sudan": [
+            "a",
+            ""
+        ],
         "Sri Lanka": [
             "e",
             "30 days"
         ],
-        "Tanzania": [
+        "Tajikistan": [
             "a",
-            ""
+            "45 days"
+        ],
+        "Thailand": [
+            "a",
+            "15 days"
         ],
         "Timor-Leste": [
             "a",
@@ -152,14 +148,6 @@
         "Uganda": [
             "a",
             ""
-        ],
-        "Vanuatu": [
-            "f",
-            "30 days"
-        ],
-        "Zambia": [
-            "a",
-            "90 days"
         ]
     }
 }

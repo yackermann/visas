@@ -1,13 +1,9 @@
 {
-    "cca2": "cd",
+    "cca2": "bi",
     "requirements": {
         "Armenia": [
             "a",
             "120 day visa issued upon arrival for AMD 15,000 "
-        ],
-        "Bangladesh": [
-            "a",
-            "90 day visa issued on arrival for $50 "
         ],
         "Cambodia": [
             "a",
@@ -20,10 +16,6 @@
         "Comoros": [
             "a",
             "A free 24 h transit visa issued upon arrival at the airport. Within 24 hours this must be converted into a full visa at the immigration office in Moroni<br>\n(fee payable) "
-        ],
-        "Congo": [
-            "f",
-            "30 days "
         ],
         "Cook Islands": [
             "f",
@@ -47,19 +39,27 @@
         ],
         "Gambia": [
             "a",
-            "At port of entry passport 24\u201372 h transit pass is issued. This must be converted into a full visa valid up to 1 month at the immigration department in Banjul (fee payable) "
+            "At port of entry passport 24-72 h transit pass is issued. This must be converted into a full visa valid up to 1 month at the immigration department in Banjul (fee payable) "
+        ],
+        "Georgia": [
+            "a",
+            "360 day visa issued on arrival for 100 GEL "
         ],
         "Haiti": [
             "f",
             "3 months "
         ],
         "Kenya": [
-            "a",
-            "3 month visa issued on arrival for $50 "
+            "f",
+            "3 months "
         ],
         "Laos": [
             "a",
             "30 day visa issued on arrival for US$ 30 "
+        ],
+        "Macau": [
+            "a",
+            "30 day visa issued on arrival for 100 MOP "
         ],
         "Madagascar": [
             "a",
@@ -91,7 +91,7 @@
         ],
         "Rwanda": [
             "f",
-            "3 months "
+            "1 month "
         ],
         "Saint Kitts and Nevis": [
             "f",
@@ -119,11 +119,11 @@
         ],
         "Syria": [
             "a",
-            "15-day visa issued upon arrival "
+            "15 day visa issued on arrival "
         ],
         "Tanzania": [
-            "a",
-            "3 month visa issued on arrival for $50 "
+            "f",
+            "3 months "
         ],
         "Timor-Leste": [
             "a",
@@ -138,16 +138,12 @@
             "1 month "
         ],
         "Uganda": [
-            "a",
-            "3 month visa issued on arrival for $50 "
+            "f",
+            "6 months "
         ],
         "Zambia": [
-            "f",
-            "90 days "
-        ],
-        "Zimbabwe": [
-            "f",
-            "3 months "
+            "a",
+            "3 month visa issued on arrival for US$ 50 "
         ]
     }
 }
