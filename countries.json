@@ -891,30 +891,6 @@
 		"area": 1098581
 	},
 	{
-		"name": "Bonaire",
-		"nativeName": "Bonaire",
-		"tld": [".an", ".nl"],
-		"cca2": "BQ",
-		"ccn3": "535",
-		"cca3": "BES",
-		"currency": ["USD"],
-		"callingCode": ["5997"],
-		"capital": "Kralendijk",
-		"altSpellings": ["BQ", "Boneiru"],
-		"relevance": "0",
-		"region": "Americas",
-		"subregion": "Caribbean",
-		"language": ["Dutch"],
-		"languageCodes": ["nl"],
-		"translations": {
-			"ru": "\u0411\u043e\u043d\u044d\u0439\u0440"
-		},
-		"latlng": [12.15, -68.266667],
-		"demonym": "Dutch",
-		"borders": [],
-		"area": -1
-	},
-	{
 		"name": "Bosnia and Herzegovina",
 		"nativeName": "Bosna i Hercegovina",
 		"tld": [".ba"],
