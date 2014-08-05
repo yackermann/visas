@@ -1,10 +1,10 @@
 {
-    "cca2": "AW",
-    "cca3": "ABW",
-    "ccn3": "533",
-    "name": "Aruba",
-    "nativeName": "Aruba",
-    "rank": 24,
+    "cca2": "NC",
+    "cca3": "NCL",
+    "ccn3": "540",
+    "name": "New Caledonia",
+    "nativeName": "Nouvelle-Cal\u00e9donie",
+    "rank": 16,
     "requirements": {
         "Albania": {
             "note": "",
@@ -22,9 +22,9 @@
             "type": "f"
         },
         "Andorra": {
-            "note": "Apply regulation of France or Spain.",
+            "note": "",
             "time": "",
-            "type": "r"
+            "type": "f"
         },
         "Angola": {
             "note": "",
@@ -50,6 +50,11 @@
             "note": "",
             "time": "120 Day(s)",
             "type": "a"
+        },
+        "Aruba": {
+            "note": "",
+            "time": "30 Day(s)",
+            "type": "f"
         },
         "Australia": {
             "note": "",
@@ -118,8 +123,8 @@
         },
         "Bolivia": {
             "note": "",
-            "time": "",
-            "type": "r"
+            "time": "90 Day(s)",
+            "type": "f"
         },
         "Bosnia and Herzegovina": {
             "note": "",
@@ -152,9 +157,9 @@
             "type": "r"
         },
         "Burkina Faso": {
-            "note": "Not required in extreme cases.",
-            "time": "",
-            "type": "r"
+            "note": "",
+            "time": "3 Month(s)",
+            "type": "a"
         },
         "Burundi": {
             "note": "Visa on arrival possible if there is no diplomatic representative of burundi located in country of origin.",
@@ -328,17 +333,17 @@
         },
         "French Guiana": {
             "note": "",
-            "time": "3 Month(s)",
+            "time": "",
             "type": "f"
         },
         "French Polynesia": {
             "note": "",
-            "time": "3 Month(s)",
+            "time": "",
             "type": "f"
         },
         "French West Indies": {
             "note": "",
-            "time": "3 Month(s)",
+            "time": "",
             "type": "f"
         },
         "Gabon": {
@@ -348,8 +353,8 @@
         },
         "Gambia": {
             "note": "",
-            "time": "90 Day(s)",
-            "type": "f"
+            "time": "",
+            "type": "r"
         },
         "Georgia": {
             "note": "",
@@ -468,7 +473,7 @@
         },
         "Jamaica": {
             "note": "",
-            "time": "90 Day(s)",
+            "time": "30 Day(s)",
             "type": "f"
         },
         "Japan": {
@@ -614,7 +619,7 @@
         "Mayotte": {
             "note": "",
             "time": "",
-            "type": "r"
+            "type": "f"
         },
         "Mexico": {
             "note": "",
@@ -688,11 +693,6 @@
         },
         "Netherlands Antilles": {
             "note": "",
-            "time": "",
-            "type": "f"
-        },
-        "New Caledonia": {
-            "note": "",
             "time": "3 Month(s)",
             "type": "f"
         },
@@ -763,8 +763,8 @@
         },
         "Panama": {
             "note": "",
-            "time": "30 Day(s)",
-            "type": "a"
+            "time": "90 Day(s)",
+            "type": "f"
         },
         "Papua New Guinea": {
             "note": "",
@@ -823,7 +823,7 @@
         },
         "Reunion": {
             "note": "",
-            "time": "3 Month(s)",
+            "time": "",
             "type": "f"
         },
         "Romania": {
@@ -928,7 +928,7 @@
         },
         "South Korea": {
             "note": "",
-            "time": "3 Month(s)",
+            "time": "30 Day(s)",
             "type": "f"
         },
         "Spain": {
@@ -948,13 +948,13 @@
         },
         "Suriname": {
             "note": "",
-            "time": "120 Day(s)",
-            "type": "f"
+            "time": "",
+            "type": "r"
         },
         "Swaziland": {
             "note": "",
-            "time": "",
-            "type": "a"
+            "time": "30 Day(s)",
+            "type": "f"
         },
         "Sweden": {
             "note": "",
@@ -967,9 +967,9 @@
             "type": "f"
         },
         "Syria": {
-            "note": "",
-            "time": "15 Day(s)",
-            "type": "a"
+            "note": "Except if born in an arabic country.",
+            "time": "",
+            "type": "r"
         },
         "Tajikistan": {
             "note": "",
@@ -1009,7 +1009,7 @@
         "Turkey": {
             "note": "",
             "time": "3 Month(s)",
-            "type": "a"
+            "type": "f"
         },
         "Turkmenistan": {
             "note": "",

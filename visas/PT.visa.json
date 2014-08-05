@@ -1,10 +1,10 @@
 {
-    "cca2": "AW",
-    "cca3": "ABW",
-    "ccn3": "533",
-    "name": "Aruba",
-    "nativeName": "Aruba",
-    "rank": 24,
+    "cca2": "PT",
+    "cca3": "PRT",
+    "ccn3": "620",
+    "name": "Portugal",
+    "nativeName": "Portugal",
+    "rank": 16,
     "requirements": {
         "Albania": {
             "note": "",
@@ -51,10 +51,15 @@
             "time": "120 Day(s)",
             "type": "a"
         },
-        "Australia": {
+        "Aruba": {
             "note": "",
-            "time": "",
-            "type": "r"
+            "time": "30 Day(s)",
+            "type": "f"
+        },
+        "Australia": {
+            "note": "Need electronic travel authority, done by airline.",
+            "time": "90 Day(s)",
+            "type": "f"
         },
         "Austria": {
             "note": "",
@@ -118,8 +123,8 @@
         },
         "Bolivia": {
             "note": "",
-            "time": "",
-            "type": "r"
+            "time": "90 Day(s)",
+            "type": "f"
         },
         "Bosnia and Herzegovina": {
             "note": "",
@@ -148,8 +153,8 @@
         },
         "Bulgaria": {
             "note": "",
-            "time": "",
-            "type": "r"
+            "time": "90 Day(s)",
+            "type": "f"
         },
         "Burkina Faso": {
             "note": "Not required in extreme cases.",
@@ -348,8 +353,8 @@
         },
         "Gambia": {
             "note": "",
-            "time": "90 Day(s)",
-            "type": "f"
+            "time": "",
+            "type": "r"
         },
         "Georgia": {
             "note": "",
@@ -468,7 +473,7 @@
         },
         "Jamaica": {
             "note": "",
-            "time": "90 Day(s)",
+            "time": "30 Day(s)",
             "type": "f"
         },
         "Japan": {
@@ -503,8 +508,8 @@
         },
         "Kuwait": {
             "note": "",
-            "time": "3 Month(s)",
-            "type": "a"
+            "time": "",
+            "type": "r"
         },
         "Kyrgyzstan": {
             "note": "",
@@ -578,8 +583,8 @@
         },
         "Malaysia": {
             "note": "",
-            "time": "",
-            "type": "r"
+            "time": "3 Month(s)",
+            "type": "f"
         },
         "Maldives": {
             "note": "",
@@ -642,9 +647,9 @@
             "type": "r"
         },
         "Montenegro": {
-            "note": "Visa exemption of 7 days if holding US or Schengen visa.",
-            "time": "",
-            "type": "r"
+            "note": "",
+            "time": "90 Day(s)",
+            "type": "f"
         },
         "Montserrat": {
             "note": "",
@@ -688,7 +693,7 @@
         },
         "Netherlands Antilles": {
             "note": "",
-            "time": "",
+            "time": "3 Month(s)",
             "type": "f"
         },
         "New Caledonia": {
@@ -763,8 +768,8 @@
         },
         "Panama": {
             "note": "",
-            "time": "30 Day(s)",
-            "type": "a"
+            "time": "90 Day(s)",
+            "type": "f"
         },
         "Papua New Guinea": {
             "note": "",
@@ -792,11 +797,6 @@
             "type": "f"
         },
         "Poland": {
-            "note": "",
-            "time": "",
-            "type": "f"
-        },
-        "Portugal": {
             "note": "",
             "time": "",
             "type": "f"
@@ -928,7 +928,7 @@
         },
         "South Korea": {
             "note": "",
-            "time": "3 Month(s)",
+            "time": "60 Day(s)",
             "type": "f"
         },
         "Spain": {
@@ -948,8 +948,8 @@
         },
         "Suriname": {
             "note": "",
-            "time": "120 Day(s)",
-            "type": "f"
+            "time": "",
+            "type": "r"
         },
         "Swaziland": {
             "note": "",
@@ -967,9 +967,9 @@
             "type": "f"
         },
         "Syria": {
-            "note": "",
-            "time": "15 Day(s)",
-            "type": "a"
+            "note": "Except if born in an arabic country.",
+            "time": "",
+            "type": "r"
         },
         "Tajikistan": {
             "note": "",

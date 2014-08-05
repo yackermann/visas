@@ -1,10 +1,10 @@
 {
-    "cca2": "AW",
-    "cca3": "ABW",
-    "ccn3": "533",
-    "name": "Aruba",
-    "nativeName": "Aruba",
-    "rank": 24,
+    "cca2": "NO",
+    "cca3": "NOR",
+    "ccn3": "578",
+    "name": "Norway",
+    "nativeName": "Norge",
+    "rank": 16,
     "requirements": {
         "Albania": {
             "note": "",
@@ -51,10 +51,15 @@
             "time": "120 Day(s)",
             "type": "a"
         },
-        "Australia": {
+        "Aruba": {
             "note": "",
-            "time": "",
-            "type": "r"
+            "time": "30 Day(s)",
+            "type": "f"
+        },
+        "Australia": {
+            "note": "Need electronic travel authority, done by airline.",
+            "time": "90 Day(s)",
+            "type": "f"
         },
         "Austria": {
             "note": "",
@@ -68,7 +73,7 @@
         },
         "Bahamas": {
             "note": "",
-            "time": "3 Month(s)",
+            "time": "8 Month(s)",
             "type": "f"
         },
         "Bahrain": {
@@ -118,8 +123,8 @@
         },
         "Bolivia": {
             "note": "",
-            "time": "",
-            "type": "r"
+            "time": "90 Day(s)",
+            "type": "f"
         },
         "Bosnia and Herzegovina": {
             "note": "",
@@ -148,8 +153,8 @@
         },
         "Bulgaria": {
             "note": "",
-            "time": "",
-            "type": "r"
+            "time": "90 Day(s)",
+            "type": "f"
         },
         "Burkina Faso": {
             "note": "Not required in extreme cases.",
@@ -283,7 +288,7 @@
         },
         "Egypt": {
             "note": "",
-            "time": "30 Day(s)",
+            "time": "15 Day(s)",
             "type": "a"
         },
         "El Salvador": {
@@ -353,8 +358,8 @@
         },
         "Georgia": {
             "note": "",
-            "time": "90 Day(s)",
-            "type": "f"
+            "time": "",
+            "type": "a"
         },
         "Germany": {
             "note": "",
@@ -494,7 +499,7 @@
         "Kiribati": {
             "note": "",
             "time": "",
-            "type": "f"
+            "type": "r"
         },
         "Kosovo": {
             "note": "",
@@ -598,8 +603,8 @@
         },
         "Marshall Islands": {
             "note": "",
-            "time": "30 Day(s)",
-            "type": "a"
+            "time": "",
+            "type": "r"
         },
         "Mauritania": {
             "note": "",
@@ -642,9 +647,9 @@
             "type": "r"
         },
         "Montenegro": {
-            "note": "Visa exemption of 7 days if holding US or Schengen visa.",
-            "time": "",
-            "type": "r"
+            "note": "",
+            "time": "90 Day(s)",
+            "type": "f"
         },
         "Montserrat": {
             "note": "",
@@ -688,7 +693,7 @@
         },
         "Netherlands Antilles": {
             "note": "",
-            "time": "",
+            "time": "3 Month(s)",
             "type": "f"
         },
         "New Caledonia": {
@@ -709,7 +714,7 @@
         "Niger": {
             "note": "",
             "time": "",
-            "type": "r"
+            "type": "f"
         },
         "Nigeria": {
             "note": "Except for former Nigeria Nationals.",
@@ -736,11 +741,6 @@
             "time": "30 Day(s)",
             "type": "f"
         },
-        "Norway": {
-            "note": "",
-            "time": "3 Month(s)",
-            "type": "f"
-        },
         "Oman": {
             "note": "",
             "time": "1 Month(s)",
@@ -763,8 +763,8 @@
         },
         "Panama": {
             "note": "",
-            "time": "30 Day(s)",
-            "type": "a"
+            "time": "90 Day(s)",
+            "type": "f"
         },
         "Papua New Guinea": {
             "note": "",
@@ -878,8 +878,8 @@
         },
         "Senegal": {
             "note": "",
-            "time": "3 Month(s)",
-            "type": "f"
+            "time": "",
+            "type": "r"
         },
         "Serbia": {
             "note": "",
@@ -948,13 +948,13 @@
         },
         "Suriname": {
             "note": "",
-            "time": "120 Day(s)",
-            "type": "f"
+            "time": "",
+            "type": "r"
         },
         "Swaziland": {
             "note": "",
-            "time": "",
-            "type": "a"
+            "time": "30 Day(s)",
+            "type": "f"
         },
         "Sweden": {
             "note": "",
@@ -967,9 +967,9 @@
             "type": "f"
         },
         "Syria": {
-            "note": "",
-            "time": "15 Day(s)",
-            "type": "a"
+            "note": "Except if born in an arabic country.",
+            "time": "",
+            "type": "r"
         },
         "Tajikistan": {
             "note": "",
@@ -998,7 +998,7 @@
         },
         "Trinidad and Tobago": {
             "note": "",
-            "time": "",
+            "time": "90 Day(s)",
             "type": "f"
         },
         "Tunisia": {
@@ -1008,8 +1008,8 @@
         },
         "Turkey": {
             "note": "",
-            "time": "3 Month(s)",
-            "type": "a"
+            "time": "1 Month(s)",
+            "type": "f"
         },
         "Turkmenistan": {
             "note": "",
@@ -1083,8 +1083,8 @@
         },
         "Vietnam": {
             "note": "",
-            "time": "",
-            "type": "r"
+            "time": "15 Day(s)",
+            "type": "f"
         },
         "Yemen": {
             "note": "",

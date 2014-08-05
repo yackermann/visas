@@ -1,10 +1,10 @@
 {
-    "cca2": "AW",
-    "cca3": "ABW",
-    "ccn3": "533",
-    "name": "Aruba",
-    "nativeName": "Aruba",
-    "rank": 24,
+    "cca2": "LU",
+    "cca3": "LUX",
+    "ccn3": "442",
+    "name": "Luxembourg",
+    "nativeName": "Luxembourg",
+    "rank": 16,
     "requirements": {
         "Albania": {
             "note": "",
@@ -51,10 +51,15 @@
             "time": "120 Day(s)",
             "type": "a"
         },
-        "Australia": {
+        "Aruba": {
             "note": "",
-            "time": "",
-            "type": "r"
+            "time": "30 Day(s)",
+            "type": "f"
+        },
+        "Australia": {
+            "note": "Need electronic travel authority, done by airline.",
+            "time": "90 Day(s)",
+            "type": "f"
         },
         "Austria": {
             "note": "",
@@ -68,7 +73,7 @@
         },
         "Bahamas": {
             "note": "",
-            "time": "3 Month(s)",
+            "time": "8 Month(s)",
             "type": "f"
         },
         "Bahrain": {
@@ -118,8 +123,8 @@
         },
         "Bolivia": {
             "note": "",
-            "time": "",
-            "type": "r"
+            "time": "90 Day(s)",
+            "type": "f"
         },
         "Bosnia and Herzegovina": {
             "note": "",
@@ -148,8 +153,8 @@
         },
         "Bulgaria": {
             "note": "",
-            "time": "",
-            "type": "r"
+            "time": "90 Day(s)",
+            "type": "f"
         },
         "Burkina Faso": {
             "note": "Not required in extreme cases.",
@@ -283,7 +288,7 @@
         },
         "Egypt": {
             "note": "",
-            "time": "30 Day(s)",
+            "time": "15 Day(s)",
             "type": "a"
         },
         "El Salvador": {
@@ -528,8 +533,8 @@
         },
         "Lesotho": {
             "note": "",
-            "time": "14 Day(s)",
-            "type": "f"
+            "time": "",
+            "type": "r"
         },
         "Liberia": {
             "note": "Visa exemption if coming from country without diplomatic representation of Liberia.",
@@ -547,11 +552,6 @@
             "type": "f"
         },
         "Lithuania": {
-            "note": "",
-            "time": "",
-            "type": "f"
-        },
-        "Luxembourg": {
             "note": "",
             "time": "",
             "type": "f"
@@ -642,9 +642,9 @@
             "type": "r"
         },
         "Montenegro": {
-            "note": "Visa exemption of 7 days if holding US or Schengen visa.",
-            "time": "",
-            "type": "r"
+            "note": "",
+            "time": "90 Day(s)",
+            "type": "f"
         },
         "Montserrat": {
             "note": "",
@@ -688,7 +688,7 @@
         },
         "Netherlands Antilles": {
             "note": "",
-            "time": "",
+            "time": "3 Month(s)",
             "type": "f"
         },
         "New Caledonia": {
@@ -763,8 +763,8 @@
         },
         "Panama": {
             "note": "",
-            "time": "30 Day(s)",
-            "type": "a"
+            "time": "90 Day(s)",
+            "type": "f"
         },
         "Papua New Guinea": {
             "note": "",
@@ -948,8 +948,8 @@
         },
         "Suriname": {
             "note": "",
-            "time": "120 Day(s)",
-            "type": "f"
+            "time": "",
+            "type": "r"
         },
         "Swaziland": {
             "note": "",
@@ -967,9 +967,9 @@
             "type": "f"
         },
         "Syria": {
-            "note": "",
-            "time": "15 Day(s)",
-            "type": "a"
+            "note": "Except if born in an arabic country.",
+            "time": "",
+            "type": "r"
         },
         "Tajikistan": {
             "note": "",
@@ -1009,7 +1009,7 @@
         "Turkey": {
             "note": "",
             "time": "3 Month(s)",
-            "type": "a"
+            "type": "f"
         },
         "Turkmenistan": {
             "note": "",
