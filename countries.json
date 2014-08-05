@@ -6335,6 +6335,30 @@
 		"area": 34
 	},
 	{
+		"name": "Caribbean Netherlands",
+		"nativeName": "Caribisch Nederland",
+		"tld": [".an", ".nl"],
+		"cca2": "BQ",
+		"ccn3": "535",
+		"cca3": "BES",
+		"currency": ["USD"],
+		"callingCode": ["599"],
+		"capital": "Kralendijk",
+		"altSpellings": ["BQ", "Boneiru", "Bonaire, Sint Eustatius en Saba"],
+		"relevance": "0",
+		"region": "Americas",
+		"subregion": "Caribbean",
+		"language": ["Dutch"],
+		"languageCodes": ["nl"],
+		"translations": {
+			"ru": "\u041a\u0430\u0440\u0438\u0431\u0441\u043a\u0438\u0435 \u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u044b"
+		},
+		"latlng": [12.18, -68.23],
+		"demonym": "Dutch",
+		"borders": [],
+		"area": 328
+	},
+	{
 		"name": "Slovakia",
 		"nativeName": "Slovensko",
 		"tld": [".sk"],
