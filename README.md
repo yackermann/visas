@@ -7,7 +7,7 @@ DFGD - De facto geo data
 * I provide data about visa requirements for citizens of a different countries.
 * I provide geographical data according to the **[de facto](https://en.wikipedia.org/wiki/De_facto)**, not **[de jure](https://en.wikipedia.org/wiki/De_jure)** status of territory.
 * If you need geo data with **de jure** status, use https://github.com/mledoze/countries
-* This is a **apolitical** project.
+* This is an **apolitical** project.
 
 ##### Where I can find the data?
 * Geo data is in **data/geo/** folder
