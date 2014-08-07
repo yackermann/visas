@@ -8,6 +8,7 @@ geodata = {
 }
 timestamp = datetime.datetime.utcnow().isoformat()
 
+
 bfolder = "data/geo"
 for file in os.listdir(bfolder):
 	if file.endswith(".geo.json"):
@@ -17,6 +18,7 @@ for file in os.listdir(bfolder):
 geodata["build_time"] = timestamp
 with open("dist/world.geo.json", "w") as w:
 	w.write(json.dumps(geodata))
+
 
 
 visadata = []
@@ -29,6 +31,7 @@ for file in os.listdir(vfolder):
 with open("dist/world.visa.json","w") as w:
 	w.write(json.dumps(visadata))
 
-with open("countries.json") as f:
+
+with open("data/info/countries.json") as f:
 	with open("dist/countries.json","w") as w:
 		w.write(json.dumps(json.loads(f.read())))

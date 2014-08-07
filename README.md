@@ -12,10 +12,11 @@ World. De facto geo data
 ##### Where I can find the data?
 * Geo data is in ** data/geo/ ** folder
 * Visa data is in ** visa/geo/ ** folder
-* Countries data in ** countries.json **
+* Countries data in ** data/info/countries.json **
 * Compressed version of the data can be found in ** dist/ ** folder
 
-##### Contribution: Any kind of contribuion is welcome. Specially at kipping visa information up to date.
+##### Contribution: 
+* Any kind of contribuion is welcome. Specially at kipping visa information up to date.
 
 ##### Building the data.
 * Run build.py to build compressed version of all countries.
