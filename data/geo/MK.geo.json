@@ -1,0 +1,45 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            [
+                                20.82,
+                                40.91
+                            ],
+                            [
+                                20.59,
+                                41.88
+                            ],
+                            [
+                                22.37,
+                                42.32
+                            ],
+                            [
+                                22.94,
+                                41.34
+                            ],
+                            [
+                                20.98,
+                                40.86
+                            ],
+                            [
+                                20.82,
+                                40.91
+                            ]
+                        ]
+                    ]
+                ],
+                "type": "MultiPolygon"
+            },
+            "id": "MK",
+            "properties": {
+                "name": "Macedonia"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

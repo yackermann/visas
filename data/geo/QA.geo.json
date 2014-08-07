@@ -1,0 +1,45 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            [
+                                51.52,
+                                25.38
+                            ],
+                            [
+                                51.22,
+                                24.62
+                            ],
+                            [
+                                50.83,
+                                24.75
+                            ],
+                            [
+                                51.04,
+                                26.05
+                            ],
+                            [
+                                51.57,
+                                25.91
+                            ],
+                            [
+                                51.52,
+                                25.38
+                            ]
+                        ]
+                    ]
+                ],
+                "type": "MultiPolygon"
+            },
+            "id": "QA",
+            "properties": {
+                "name": "Qatar"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

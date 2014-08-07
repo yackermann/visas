@@ -1,0 +1,41 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -77.13,
+                                17.88
+                            ],
+                            [
+                                -78.34,
+                                18.36
+                            ],
+                            [
+                                -76.95,
+                                18.39
+                            ],
+                            [
+                                -76.22,
+                                17.9
+                            ],
+                            [
+                                -77.13,
+                                17.88
+                            ]
+                        ]
+                    ]
+                ],
+                "type": "MultiPolygon"
+            },
+            "id": "JM",
+            "properties": {
+                "name": "Jamaica"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
