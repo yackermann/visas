@@ -1,7 +1,7 @@
 DFGD - De facto geo data
 ==============
 
-##### A ** De-facto ** geo data progect
+##### A **De-facto** geo data progect
 
 ##### What do I do in this project?
 * I provide data about visa requirements for citizens of a different countries.
