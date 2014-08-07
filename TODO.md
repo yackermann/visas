@@ -1,4 +1,4 @@
-==Todo for visa data
+### Todo for visa data
 - AB : Abkhazia
 - AX : Åland Islands
 - AQ : Antarctica
@@ -31,6 +31,6 @@
 - WF : Wallis and Futuna
 - EH : Western Sahara
 
-==Todo for geo data
+### Todo for geo data
 - SX : Sint Maarten
 - UM : United States Minor Outlying Islands
