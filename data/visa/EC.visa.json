@@ -5,1097 +5,1092 @@
     "name": "Ecuador",
     "rank": 117,
     "requirements": {
-        "Albania": {
-            "note": "",
-            "time": "",
-            "type": "r"
-        },
-        "Algeria": {
-            "note": "",
-            "time": "",
-            "type": "r"
-        },
-        "American Samoa": {
-            "note": "",
-            "time": "",
-            "type": "r"
-        },
-        "Andorra": {
+        "AD": {
             "note": "Apply regulation of France or Spain.",
             "time": "",
             "type": "r"
         },
-        "Angola": {
+        "AE": {
             "note": "",
             "time": "",
             "type": "r"
         },
-        "Anguilla": {
+        "AG": {
             "note": "",
             "time": "",
             "type": "r"
         },
-        "Antigua and Barbuda": {
+        "AI": {
             "note": "",
             "time": "",
             "type": "r"
         },
-        "Argentina": {
+        "AL": {
             "note": "",
-            "time": "3 Month(s)",
-            "type": "f"
+            "time": "",
+            "type": "r"
         },
-        "Armenia": {
+        "AM": {
             "note": "",
             "time": "120 Day(s)",
             "type": "a"
         },
-        "Aruba": {
-            "note": "",
-            "time": "30 Day(s)",
-            "type": "f"
-        },
-        "Australia": {
+        "AO": {
             "note": "",
             "time": "",
             "type": "r"
         },
-        "Austria": {
-            "note": "",
-            "time": "",
-            "type": "r"
-        },
-        "Azerbaijan": {
-            "note": "",
-            "time": "30 Day(s)",
-            "type": "a"
-        },
-        "Bahamas": {
+        "AR": {
             "note": "",
             "time": "3 Month(s)",
             "type": "f"
         },
-        "Bahrain": {
+        "AS": {
             "note": "",
             "time": "",
             "type": "r"
         },
-        "Bangladesh": {
+        "AT": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "AU": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "AW": {
+            "note": "",
+            "time": "30 Day(s)",
+            "type": "f"
+        },
+        "AZ": {
+            "note": "",
+            "time": "30 Day(s)",
+            "type": "a"
+        },
+        "BA": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "BB": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "BD": {
             "note": "",
             "time": "90 Day(s)",
             "type": "a"
         },
-        "Barbados": {
+        "BE": {
             "note": "",
             "time": "",
             "type": "r"
         },
-        "Belarus": {
-            "note": "",
-            "time": "",
-            "type": "a"
-        },
-        "Belgium": {
-            "note": "",
-            "time": "",
-            "type": "r"
-        },
-        "Belize": {
-            "note": "",
-            "time": "",
-            "type": "r"
-        },
-        "Benin": {
-            "note": "",
-            "time": "",
-            "type": "r"
-        },
-        "Bermuda": {
-            "note": "",
-            "time": "6 Month(s)",
-            "type": "f"
-        },
-        "Bhutan": {
-            "note": "",
-            "time": "",
-            "type": "r"
-        },
-        "Bolivia": {
-            "note": "",
-            "time": "90 Day(s)",
-            "type": "f"
-        },
-        "Bosnia and Herzegovina": {
-            "note": "",
-            "time": "",
-            "type": "r"
-        },
-        "Botswana": {
-            "note": "",
-            "time": "",
-            "type": "r"
-        },
-        "Brazil": {
-            "note": "",
-            "time": "90 Day(s)",
-            "type": "f"
-        },
-        "British Virgin Islands": {
-            "note": "",
-            "time": "",
-            "type": "f"
-        },
-        "Brunei": {
-            "note": "",
-            "time": "",
-            "type": "r"
-        },
-        "Bulgaria": {
-            "note": "Except for transit.",
-            "time": "",
-            "type": "r"
-        },
-        "Burkina Faso": {
+        "BF": {
             "note": "Not required in extreme cases.",
             "time": "",
             "type": "r"
         },
-        "Burundi": {
+        "BG": {
+            "note": "Except for transit.",
+            "time": "",
+            "type": "r"
+        },
+        "BH": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "BI": {
             "note": "Visa on arrival possible if there is no diplomatic representative of burundi located in country of origin.",
             "time": "",
             "type": "r"
         },
-        "Cambodia": {
-            "note": "",
-            "time": "30 Day(s)",
-            "type": "a"
-        },
-        "Cameroon": {
+        "BJ": {
             "note": "",
             "time": "",
             "type": "r"
         },
-        "Canada": {
+        "BM": {
             "note": "",
-            "time": "",
-            "type": "r"
-        },
-        "Cape Verde": {
-            "note": "Not required for former nationals of cape verde islands. Visa on arrival for those coming from countries where no diplomatic re",
-            "time": "",
-            "type": "r"
-        },
-        "Cayman Islands": {
-            "note": "",
-            "time": "30 Day(s)",
+            "time": "6 Month(s)",
             "type": "f"
         },
-        "Central African Republic": {
+        "BN": {
             "note": "",
             "time": "",
             "type": "r"
         },
-        "Chad": {
-            "note": "",
-            "time": "",
-            "type": "r"
-        },
-        "Chile": {
+        "BO": {
             "note": "",
             "time": "90 Day(s)",
             "type": "f"
         },
-        "China": {
-            "note": "",
-            "time": "",
-            "type": "r"
-        },
-        "Colombia": {
+        "BR": {
             "note": "",
             "time": "90 Day(s)",
             "type": "f"
         },
-        "Comoros": {
+        "BS": {
+            "note": "",
+            "time": "3 Month(s)",
+            "type": "f"
+        },
+        "BT": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "BW": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "BY": {
             "note": "",
             "time": "",
             "type": "a"
         },
-        "Cook Islands": {
+        "BZ": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "CA": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "CD": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "CF": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "CG": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "CH": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "CI": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "CK": {
             "note": "",
             "time": "31 Day(s)",
             "type": "f"
         },
-        "Costa Rica": {
+        "CL": {
+            "note": "",
+            "time": "90 Day(s)",
+            "type": "f"
+        },
+        "CM": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "CN": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "CO": {
+            "note": "",
+            "time": "90 Day(s)",
+            "type": "f"
+        },
+        "CR": {
             "note": "US, Canada or EU visa accpeted.",
             "time": "",
             "type": "r"
         },
-        "Croatia": {
+        "CU": {
             "note": "",
             "time": "",
             "type": "r"
         },
-        "Cuba": {
-            "note": "",
+        "CV": {
+            "note": "Not required for former nationals of cape verde islands. Visa on arrival for those coming from countries where no diplomatic re",
             "time": "",
             "type": "r"
         },
-        "Cura\u00e7ao": {
+        "CW": {
             "note": "",
             "time": "3 Month(s)",
             "type": "f"
         },
-        "Cyprus": {
+        "CY": {
             "note": "",
             "time": "",
             "type": "r"
         },
-        "Czech Republic": {
+        "CZ": {
             "note": "",
             "time": "",
             "type": "r"
         },
-        "Democratic Republic of the Congo": {
+        "DE": {
             "note": "",
             "time": "",
             "type": "r"
         },
-        "Denmark": {
-            "note": "",
-            "time": "",
-            "type": "r"
-        },
-        "Djibouti": {
+        "DJ": {
             "note": "",
             "time": "1 Month(s)",
             "type": "a"
         },
-        "Dominica": {
+        "DK": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "DM": {
             "note": "",
             "time": "21 Day(s)",
             "type": "f"
         },
-        "Dominican Republic": {
+        "DO": {
             "note": "",
             "time": "90 Day(s)",
             "type": "f"
         },
-        "Egypt": {
+        "DZ": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "EE": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "EG": {
             "note": "",
             "time": "15 Day(s)",
             "type": "a"
         },
-        "El Salvador": {
+        "ER": {
             "note": "",
             "time": "",
+            "type": "r"
+        },
+        "ES": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "ET": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "FI": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "FJ": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "FM": {
+            "note": "",
+            "time": "30 Day(s)",
             "type": "f"
         },
-        "Equatorial Guinea": {
+        "FR": {
             "note": "",
             "time": "",
             "type": "r"
         },
-        "Eritrea": {
+        "GA": {
             "note": "",
             "time": "",
             "type": "r"
         },
-        "Estonia": {
+        "GB": {
             "note": "",
             "time": "",
             "type": "r"
         },
-        "Ethiopia": {
+        "GD": {
             "note": "",
             "time": "",
             "type": "r"
         },
-        "Fiji": {
-            "note": "",
-            "time": "",
-            "type": "r"
-        },
-        "Finland": {
-            "note": "",
-            "time": "",
-            "type": "r"
-        },
-        "France": {
-            "note": "",
-            "time": "",
-            "type": "r"
-        },
-        "French Guiana": {
-            "note": "",
-            "time": "",
-            "type": "r"
-        },
-        "French Polynesia": {
-            "note": "",
-            "time": "",
-            "type": "r"
-        },
-        "French West Indies": {
-            "note": "",
-            "time": "",
-            "type": "r"
-        },
-        "Gabon": {
-            "note": "",
-            "time": "",
-            "type": "r"
-        },
-        "Gambia": {
-            "note": "",
-            "time": "",
-            "type": "r"
-        },
-        "Georgia": {
+        "GE": {
             "note": "",
             "time": "",
             "type": "a"
         },
-        "Germany": {
+        "GF": {
             "note": "",
             "time": "",
             "type": "r"
         },
-        "Ghana": {
+        "GH": {
             "note": "",
             "time": "",
             "type": "r"
         },
-        "Gibraltar": {
+        "GI": {
             "note": "UK visa accepted (must be valid for one year).",
             "time": "",
             "type": "r"
         },
-        "Greece": {
+        "GM": {
             "note": "",
             "time": "",
             "type": "r"
         },
-        "Grenada": {
+        "GN": {
             "note": "",
             "time": "",
             "type": "r"
         },
-        "Guam": {
-            "note": "Same conditions as for mainland US.",
+        "GQ": {
+            "note": "",
             "time": "",
             "type": "r"
         },
-        "Guatemala": {
+        "GR": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "GT": {
             "note": "US, Canada or Schengen visa accepted.",
             "time": "",
             "type": "r"
         },
-        "Guinea": {
+        "GU": {
+            "note": "Same conditions as for mainland US.",
+            "time": "",
+            "type": "r"
+        },
+        "GW": {
             "note": "",
             "time": "",
             "type": "r"
         },
-        "Guinea-Bissau": {
+        "GY": {
             "note": "",
             "time": "",
             "type": "r"
         },
-        "Guyana": {
-            "note": "",
-            "time": "",
-            "type": "r"
-        },
-        "Haiti": {
+        "HK": {
             "note": "",
             "time": "3 Month(s)",
             "type": "f"
         },
-        "Honduras": {
+        "HN": {
             "note": "",
             "time": "3 Month(s)",
             "type": "f"
         },
-        "Hong Kong": {
+        "HR": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "HT": {
             "note": "",
             "time": "3 Month(s)",
             "type": "f"
         },
-        "Hungary": {
+        "HU": {
             "note": "",
             "time": "",
             "type": "r"
         },
-        "Iceland": {
+        "ID": {
+            "note": "",
+            "time": "30 Day(s)",
+            "type": "f"
+        },
+        "IE": {
             "note": "",
             "time": "",
             "type": "r"
         },
-        "India": {
+        "IL": {
+            "note": "",
+            "time": "3 Month(s)",
+            "type": "f"
+        },
+        "IN": {
             "note": "Except for those holding a PIO card (Person of Indian Origin).",
             "time": "",
             "type": "r"
         },
-        "Indonesia": {
-            "note": "",
-            "time": "30 Day(s)",
-            "type": "f"
-        },
-        "Iran": {
-            "note": "Need a pre-approval code obtained at www. mfa. gov. ir.",
-            "time": "15 Day(s)",
-            "type": "r"
-        },
-        "Iraq": {
+        "IQ": {
             "note": "Only available at Erbil international airport.",
             "time": "",
             "type": "a"
         },
-        "Ireland": {
+        "IR": {
+            "note": "Need a pre-approval code obtained at www. mfa. gov. ir.",
+            "time": "15 Day(s)",
+            "type": "r"
+        },
+        "IS": {
             "note": "",
             "time": "",
             "type": "r"
         },
-        "Israel": {
-            "note": "",
-            "time": "3 Month(s)",
-            "type": "f"
-        },
-        "Italy": {
+        "IT": {
             "note": "",
             "time": "",
             "type": "r"
         },
-        "Ivory Coast": {
-            "note": "",
-            "time": "",
-            "type": "r"
-        },
-        "Jamaica": {
+        "JM": {
             "note": "",
             "time": "30 Day(s)",
             "type": "f"
         },
-        "Japan": {
-            "note": "",
-            "time": "",
-            "type": "r"
-        },
-        "Jordan": {
+        "JO": {
             "note": "",
             "time": "",
             "type": "a"
         },
-        "Kazakhstan": {
+        "JP": {
             "note": "",
             "time": "",
             "type": "r"
         },
-        "Kenya": {
+        "KE": {
             "note": "",
             "time": "3 Month(s)",
             "type": "a"
         },
-        "Kiribati": {
+        "KG": {
             "note": "",
             "time": "",
             "type": "r"
         },
-        "Kuwait": {
-            "note": "",
-            "time": "",
-            "type": "r"
-        },
-        "Kyrgyzstan": {
-            "note": "",
-            "time": "",
-            "type": "r"
-        },
-        "Laos": {
+        "KH": {
             "note": "",
             "time": "30 Day(s)",
             "type": "a"
         },
-        "Latvia": {
+        "KI": {
             "note": "",
             "time": "",
             "type": "r"
         },
-        "Lebanon": {
-            "note": "",
-            "time": "",
-            "type": "r"
-        },
-        "Lesotho": {
-            "note": "",
-            "time": "",
-            "type": "r"
-        },
-        "Liberia": {
-            "note": "Visa exemption if coming from country without diplomatic representation of Liberia.",
-            "time": "",
-            "type": "r"
-        },
-        "Libya": {
-            "note": "",
-            "time": "",
-            "type": "r"
-        },
-        "Liechtenstein": {
-            "note": "",
-            "time": "",
-            "type": "r"
-        },
-        "Lithuania": {
-            "note": "",
-            "time": "",
-            "type": "r"
-        },
-        "Luxembourg": {
-            "note": "",
-            "time": "",
-            "type": "r"
-        },
-        "Macau": {
+        "KM": {
             "note": "",
             "time": "",
             "type": "a"
         },
-        "Macedonia": {
-            "note": "Schengen visa accepted.",
-            "time": "",
-            "type": "r"
-        },
-        "Madagascar": {
-            "note": "",
-            "time": "90 Day(s)",
-            "type": "a"
-        },
-        "Malawi": {
-            "note": "",
-            "time": "",
-            "type": "r"
-        },
-        "Malaysia": {
-            "note": "",
-            "time": "1 Month(s)",
-            "type": "f"
-        },
-        "Maldives": {
-            "note": "",
-            "time": "30 Day(s)",
-            "type": "a"
-        },
-        "Mali": {
-            "note": "",
-            "time": "",
-            "type": "r"
-        },
-        "Malta": {
-            "note": "",
-            "time": "",
-            "type": "r"
-        },
-        "Marshall Islands": {
-            "note": "",
-            "time": "",
-            "type": "r"
-        },
-        "Mauritania": {
-            "note": "",
-            "time": "",
-            "type": "r"
-        },
-        "Mauritius": {
-            "note": "",
-            "time": "",
-            "type": "r"
-        },
-        "Mayotte": {
-            "note": "",
-            "time": "",
-            "type": "r"
-        },
-        "Mexico": {
-            "note": "",
-            "time": "",
-            "type": "r"
-        },
-        "Micronesia": {
-            "note": "",
-            "time": "30 Day(s)",
-            "type": "f"
-        },
-        "Moldova": {
-            "note": "",
-            "time": "",
-            "type": "r"
-        },
-        "Monaco": {
-            "note": "",
-            "time": "",
-            "type": "r"
-        },
-        "Mongolia": {
-            "note": "Visa on arrival if arriving from countries where there is no diplomatic representation of Mongolia.",
-            "time": "",
-            "type": "r"
-        },
-        "Montenegro": {
-            "note": "",
-            "time": "30 Day(s)",
-            "type": "f"
-        },
-        "Montserrat": {
+        "KN": {
             "note": "",
             "time": "3 Month(s)",
             "type": "f"
         },
-        "Morocco": {
+        "KP": {
             "note": "",
             "time": "",
             "type": "r"
         },
-        "Mozambique": {
-            "note": "",
-            "time": "30 Day(s)",
-            "type": "a"
-        },
-        "Myanmar": {
-            "note": "",
-            "time": "",
-            "type": "r"
-        },
-        "Namibia": {
-            "note": "",
-            "time": "",
-            "type": "r"
-        },
-        "Nauru": {
-            "note": "",
-            "time": "",
-            "type": "r"
-        },
-        "Nepal": {
-            "note": "",
-            "time": "",
-            "type": "a"
-        },
-        "Netherlands": {
-            "note": "",
-            "time": "",
-            "type": "r"
-        },
-        "New Caledonia": {
-            "note": "",
-            "time": "",
-            "type": "r"
-        },
-        "New Zealand": {
-            "note": "",
-            "time": "",
-            "type": "r"
-        },
-        "Nicaragua": {
-            "note": "",
-            "time": "90 Day(s)",
-            "type": "f"
-        },
-        "Niger": {
-            "note": "",
-            "time": "",
-            "type": "r"
-        },
-        "Nigeria": {
-            "note": "Except for former Nigeria Nationals.",
-            "time": "",
-            "type": "r"
-        },
-        "Niue": {
+        "KR": {
             "note": "",
             "time": "30 Day(s)",
             "type": "f"
         },
-        "Norfolk Island": {
+        "KW": {
             "note": "",
             "time": "",
             "type": "r"
         },
-        "North Korea": {
+        "KY": {
+            "note": "",
+            "time": "30 Day(s)",
+            "type": "f"
+        },
+        "KZ": {
             "note": "",
             "time": "",
             "type": "r"
         },
-        "Northern Mariana Islands": {
-            "note": "US visa accepted.",
-            "time": "",
-            "type": "r"
-        },
-        "Norway": {
-            "note": "",
-            "time": "",
-            "type": "r"
-        },
-        "Oman": {
-            "note": "",
-            "time": "1 Month(s)",
-            "type": "a"
-        },
-        "Pakistan": {
-            "note": "Visa not needed if holding a Pakistan Origin Card (POC).",
-            "time": "",
-            "type": "r"
-        },
-        "Palau": {
+        "LA": {
             "note": "",
             "time": "30 Day(s)",
             "type": "a"
         },
-        "Palestine": {
-            "note": "Borders not controlled.",
-            "time": "",
-            "type": "d"
-        },
-        "Panama": {
+        "LB": {
             "note": "",
             "time": "",
             "type": "r"
         },
-        "Papua New Guinea": {
-            "note": "",
-            "time": "60 Day(s)",
-            "type": "a"
-        },
-        "Paraguay": {
-            "note": "",
-            "time": "90 Day(s)",
-            "type": "f"
-        },
-        "Peru": {
-            "note": "",
-            "time": "90 Day(s)",
-            "type": "f"
-        },
-        "Philippines": {
-            "note": "For more than 21 days up to 59 days, visa issued upon arrival.",
-            "time": "21 Day(s)",
-            "type": "f"
-        },
-        "Poland": {
-            "note": "",
-            "time": "",
-            "type": "r"
-        },
-        "Portugal": {
-            "note": "",
-            "time": "",
-            "type": "r"
-        },
-        "Puerto Rico": {
-            "note": "Except if arriving directly from US.",
-            "time": "",
-            "type": "r"
-        },
-        "Qatar": {
-            "note": "",
-            "time": "",
-            "type": "r"
-        },
-        "Republic of Kosovo": {
-            "note": "",
-            "time": "90 Day(s)",
-            "type": "f"
-        },
-        "Republic of the Congo": {
-            "note": "",
-            "time": "",
-            "type": "r"
-        },
-        "Romania": {
-            "note": "",
-            "time": "",
-            "type": "r"
-        },
-        "Russia": {
-            "note": "",
-            "time": "",
-            "type": "r"
-        },
-        "Rwanda": {
-            "note": "",
-            "time": "",
-            "type": "r"
-        },
-        "R\u00e9union": {
-            "note": "",
-            "time": "",
-            "type": "r"
-        },
-        "Saint Kitts and Nevis": {
-            "note": "",
-            "time": "3 Month(s)",
-            "type": "f"
-        },
-        "Saint Lucia": {
+        "LC": {
             "note": "",
             "time": "6 Week(s)",
             "type": "a"
         },
-        "Saint Vincent and the Grenadines": {
+        "LI": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "LK": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "LR": {
+            "note": "Visa exemption if coming from country without diplomatic representation of Liberia.",
+            "time": "",
+            "type": "r"
+        },
+        "LS": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "LT": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "LU": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "LV": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "LY": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "MA": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "MC": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "MD": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "ME": {
+            "note": "",
+            "time": "30 Day(s)",
+            "type": "f"
+        },
+        "MG": {
+            "note": "",
+            "time": "90 Day(s)",
+            "type": "a"
+        },
+        "MH": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "MK": {
+            "note": "Schengen visa accepted.",
+            "time": "",
+            "type": "r"
+        },
+        "ML": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "MM": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "MN": {
+            "note": "Visa on arrival if arriving from countries where there is no diplomatic representation of Mongolia.",
+            "time": "",
+            "type": "r"
+        },
+        "MO": {
+            "note": "",
+            "time": "",
+            "type": "a"
+        },
+        "MP": {
+            "note": "US visa accepted.",
+            "time": "",
+            "type": "r"
+        },
+        "MR": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "MS": {
+            "note": "",
+            "time": "3 Month(s)",
+            "type": "f"
+        },
+        "MT": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "MU": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "MV": {
+            "note": "",
+            "time": "30 Day(s)",
+            "type": "a"
+        },
+        "MW": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "MX": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "MY": {
             "note": "",
             "time": "1 Month(s)",
             "type": "f"
         },
-        "Samoa": {
+        "MZ": {
+            "note": "",
+            "time": "30 Day(s)",
+            "type": "a"
+        },
+        "NA": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "NC": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "NE": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "NF": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "NG": {
+            "note": "Except for former Nigeria Nationals.",
+            "time": "",
+            "type": "r"
+        },
+        "NI": {
+            "note": "",
+            "time": "90 Day(s)",
+            "type": "f"
+        },
+        "NL": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "NO": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "NP": {
+            "note": "",
+            "time": "",
+            "type": "a"
+        },
+        "NR": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "NU": {
+            "note": "",
+            "time": "30 Day(s)",
+            "type": "f"
+        },
+        "NZ": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "OM": {
+            "note": "",
+            "time": "1 Month(s)",
+            "type": "a"
+        },
+        "PA": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "PE": {
+            "note": "",
+            "time": "90 Day(s)",
+            "type": "f"
+        },
+        "PF": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "PG": {
             "note": "",
             "time": "60 Day(s)",
             "type": "a"
         },
-        "San Marino": {
-            "note": "Same rules as for italy.",
-            "time": "",
-            "type": "r"
-        },
-        "Saudi Arabia": {
-            "note": "",
-            "time": "",
-            "type": "r"
-        },
-        "Senegal": {
-            "note": "",
-            "time": "",
-            "type": "r"
-        },
-        "Serbia": {
-            "note": "",
-            "time": "",
-            "type": "r"
-        },
-        "Seychelles": {
-            "note": "",
-            "time": "1 Month(s)",
-            "type": "a"
-        },
-        "Sierra Leone": {
-            "note": "",
-            "time": "",
-            "type": "r"
-        },
-        "Singapore": {
-            "note": "",
-            "time": "30 Day(s)",
+        "PH": {
+            "note": "For more than 21 days up to 59 days, visa issued upon arrival.",
+            "time": "21 Day(s)",
             "type": "f"
         },
-        "Slovakia": {
+        "PK": {
+            "note": "Visa not needed if holding a Pakistan Origin Card (POC).",
+            "time": "",
+            "type": "r"
+        },
+        "PL": {
             "note": "",
             "time": "",
             "type": "r"
         },
-        "Slovenia": {
-            "note": "",
-            "time": "",
-            "type": "r"
-        },
-        "Solomon Islands": {
-            "note": "",
-            "time": "",
-            "type": "r"
-        },
-        "Somalia": {
-            "note": "Except if of Somali origin.",
-            "time": "",
-            "type": "r"
-        },
-        "South Africa": {
-            "note": "",
-            "time": "90 Day(s)",
-            "type": "f"
-        },
-        "South Korea": {
-            "note": "",
-            "time": "30 Day(s)",
-            "type": "f"
-        },
-        "Spain": {
-            "note": "",
-            "time": "",
-            "type": "r"
-        },
-        "Sri Lanka": {
-            "note": "",
-            "time": "",
-            "type": "r"
-        },
-        "Sudan": {
-            "note": "Except if of Sudanese origin.",
-            "time": "",
-            "type": "r"
-        },
-        "Suriname": {
-            "note": "",
-            "time": "",
-            "type": "r"
-        },
-        "Swaziland": {
-            "note": "",
-            "time": "",
-            "type": "r"
-        },
-        "Sweden": {
-            "note": "",
-            "time": "",
-            "type": "r"
-        },
-        "Switzerland": {
-            "note": "",
-            "time": "",
-            "type": "r"
-        },
-        "Syria": {
-            "note": "Except if born in an arabic country.",
-            "time": "",
-            "type": "r"
-        },
-        "S\u00e3o Tom\u00e9 and Pr\u00edncipe": {
-            "note": "Registration made by airline.",
-            "time": "1 Month(s)",
-            "type": "a"
-        },
-        "Taiwan": {
-            "note": "",
-            "time": "",
-            "type": "r"
-        },
-        "Tajikistan": {
-            "note": "",
-            "time": "",
-            "type": "r"
-        },
-        "Tanzania": {
-            "note": "",
-            "time": "",
-            "type": "a"
-        },
-        "Thailand": {
-            "note": "",
-            "time": "",
-            "type": "r"
-        },
-        "Timor-Leste": {
-            "note": "",
-            "time": "30 Day(s)",
-            "type": "a"
-        },
-        "Togo": {
-            "note": "",
-            "time": "7 Day(s)",
-            "type": "a"
-        },
-        "Tonga": {
-            "note": "",
-            "time": "",
-            "type": "r"
-        },
-        "Trinidad and Tobago": {
-            "note": "",
-            "time": "90 Day(s)",
-            "type": "f"
-        },
-        "Tunisia": {
-            "note": "",
-            "time": "",
-            "type": "r"
-        },
-        "Turkey": {
-            "note": "",
-            "time": "3 Month(s)",
-            "type": "f"
-        },
-        "Turkmenistan": {
-            "note": "",
-            "time": "",
-            "type": "r"
-        },
-        "Turks and Caicos Islands": {
-            "note": "",
-            "time": "30 Day(s)",
-            "type": "f"
-        },
-        "Tuvalu": {
-            "note": "",
-            "time": "1 Month(s)",
-            "type": "a"
-        },
-        "Uganda": {
-            "note": "",
-            "time": "",
-            "type": "a"
-        },
-        "Ukraine": {
-            "note": "",
-            "time": "",
-            "type": "r"
-        },
-        "United Arab Emirates": {
-            "note": "",
-            "time": "",
-            "type": "r"
-        },
-        "United Kingdom": {
-            "note": "",
-            "time": "",
-            "type": "r"
-        },
-        "United States": {
-            "note": "",
-            "time": "",
-            "type": "r"
-        },
-        "United States Virgin Islands": {
+        "PR": {
             "note": "Except if arriving directly from US.",
             "time": "",
             "type": "r"
         },
-        "Uruguay": {
+        "PS": {
+            "note": "Borders not controlled.",
+            "time": "",
+            "type": "d"
+        },
+        "PT": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "PW": {
+            "note": "",
+            "time": "30 Day(s)",
+            "type": "a"
+        },
+        "PY": {
+            "note": "",
+            "time": "90 Day(s)",
+            "type": "f"
+        },
+        "QA": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "RE": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "RO": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "RS": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "RU": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "RW": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "SA": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "SB": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "SC": {
+            "note": "",
+            "time": "1 Month(s)",
+            "type": "a"
+        },
+        "SD": {
+            "note": "Except if of Sudanese origin.",
+            "time": "",
+            "type": "r"
+        },
+        "SE": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "SG": {
+            "note": "",
+            "time": "30 Day(s)",
+            "type": "f"
+        },
+        "SI": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "SK": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "SL": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "SM": {
+            "note": "Same rules as for italy.",
+            "time": "",
+            "type": "r"
+        },
+        "SN": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "SO": {
+            "note": "Except if of Somali origin.",
+            "time": "",
+            "type": "r"
+        },
+        "SR": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "ST": {
+            "note": "Registration made by airline.",
+            "time": "1 Month(s)",
+            "type": "a"
+        },
+        "SV": {
+            "note": "",
+            "time": "",
+            "type": "f"
+        },
+        "SY": {
+            "note": "Except if born in an arabic country.",
+            "time": "",
+            "type": "r"
+        },
+        "SZ": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "TC": {
+            "note": "",
+            "time": "30 Day(s)",
+            "type": "f"
+        },
+        "TD": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "TG": {
+            "note": "",
+            "time": "7 Day(s)",
+            "type": "a"
+        },
+        "TH": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "TJ": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "TL": {
+            "note": "",
+            "time": "30 Day(s)",
+            "type": "a"
+        },
+        "TM": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "TN": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "TO": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "TR": {
             "note": "",
             "time": "3 Month(s)",
             "type": "f"
         },
-        "Uzbekistan": {
-            "note": "",
-            "time": "",
-            "type": "r"
-        },
-        "Vanuatu": {
-            "note": "",
-            "time": "",
-            "type": "r"
-        },
-        "Vatican City": {
-            "note": "",
-            "time": "",
-            "type": "r"
-        },
-        "Venezuela": {
+        "TT": {
             "note": "",
             "time": "90 Day(s)",
             "type": "f"
         },
-        "Vietnam": {
+        "TV": {
+            "note": "",
+            "time": "1 Month(s)",
+            "type": "a"
+        },
+        "TW": {
             "note": "",
             "time": "",
             "type": "r"
         },
-        "Yemen": {
+        "TZ": {
+            "note": "",
+            "time": "",
+            "type": "a"
+        },
+        "UA": {
             "note": "",
             "time": "",
             "type": "r"
         },
-        "Zambia": {
+        "UG": {
+            "note": "",
+            "time": "",
+            "type": "a"
+        },
+        "US": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "UY": {
+            "note": "",
+            "time": "3 Month(s)",
+            "type": "f"
+        },
+        "UZ": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "VA": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "VC": {
+            "note": "",
+            "time": "1 Month(s)",
+            "type": "f"
+        },
+        "VE": {
+            "note": "",
+            "time": "90 Day(s)",
+            "type": "f"
+        },
+        "VG": {
+            "note": "",
+            "time": "",
+            "type": "f"
+        },
+        "VI": {
+            "note": "Except if arriving directly from US.",
+            "time": "",
+            "type": "r"
+        },
+        "VN": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "VU": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "WS": {
+            "note": "",
+            "time": "60 Day(s)",
+            "type": "a"
+        },
+        "XK": {
+            "note": "",
+            "time": "90 Day(s)",
+            "type": "f"
+        },
+        "YE": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "YT": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "ZA": {
+            "note": "",
+            "time": "90 Day(s)",
+            "type": "f"
+        },
+        "ZM": {
             "note": "",
             "time": "90 Day(s)",
             "type": "a"
         },
-        "Zimbabwe": {
+        "ZW": {
             "note": "",
             "time": "",
             "type": "r"
