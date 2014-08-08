@@ -69,7 +69,7 @@ for i in visas_temp:
 		countries_v.remove(i['cca2'])
  
 for i in countries_v:
-	todo += "-" + i + " : " + countries[i] + "\n"
+	todo += "- " + i + " : " + countries[i] + "\n"
  
 todo += "\n### Todo for geo data\n"
 
@@ -78,7 +78,7 @@ for i in geo_temp["features"]:
 		countries_g.remove(i["id"])
 
 for i in countries_g:
-	todo += "-" + i + " : " + countries[i] + "\n"
+	todo += "- " + i + " : " + countries[i] + "\n"
 
 with open("TODO.md","w") as w:
 	w.write(todo)
