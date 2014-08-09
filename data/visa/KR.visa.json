@@ -15,6 +15,11 @@
             "time": "30 Day(s)",
             "type": "a"
         },
+        "AF": {
+            "note": "As of 2014, due to safety concerns, South Korean government bans its citizens from visiting Somalia.",
+            "time": "",
+            "type": "d"
+        },
         "AG": {
             "note": "",
             "time": "1 Month(s)",
@@ -446,9 +451,9 @@
             "type": "r"
         },
         "IQ": {
-            "note": "Only available at Erbil international airport.",
+            "note": "As of 2014, due to safety concerns, South Korean government bans its citizens from visiting Somalia.",
             "time": "",
-            "type": "a"
+            "type": "d"
         },
         "IR": {
             "note": "Need a pre-approval code obtained at www. mfa. gov. ir.",
@@ -837,8 +842,8 @@
         },
         "RU": {
             "note": "",
-            "time": "",
-            "type": "r"
+            "time": "90 day(s)",
+            "type": "f"
         },
         "RW": {
             "note": "",
@@ -901,9 +906,9 @@
             "type": "r"
         },
         "SO": {
-            "note": "Except if of Somali origin.",
+            "note": "As of 2014, due to safety concerns, South Korean government bans its citizens from visiting Somalia.",
             "time": "",
-            "type": "r"
+            "type": "d"
         },
         "SR": {
             "note": "",
@@ -921,9 +926,9 @@
             "type": "f"
         },
         "SY": {
-            "note": "Except if born in an arabic country.",
+            "note": "As of 2014, due to safety concerns, South Korean government bans its citizens from visiting Syria.",
             "time": "",
-            "type": "r"
+            "type": "d"
         },
         "SZ": {
             "note": "",
@@ -1071,9 +1076,9 @@
             "type": "f"
         },
         "YE": {
-            "note": "",
+            "note": "As of 2014, due to safety concerns, South Korean government bans its citizens from visiting Yemen.",
             "time": "",
-            "type": "r"
+            "type": "d"
         },
         "YT": {
             "note": "",
