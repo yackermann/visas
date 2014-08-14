@@ -23,7 +23,7 @@ DFGD - De facto geo data
 * Run beauty.py to validate your json and make it nicely aligned.
 
 ##### Other projects used:
-* https://github.com/herrniemand/countries
+* https://github.com/mledoze/countries
 
 ##### Useful links:
 * http://geojson.io/
