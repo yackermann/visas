@@ -41,4 +41,4 @@ class tools:
                 w.write(json.dumps(data, sort_keys=True, indent=4, separators=(',', ': ')))
             except:
               print("Error while validating file: " + folder + "/" + file)
-        print("Validation of " + i + " information completed.")
+        print("Validation of " + i + " data completed.")
