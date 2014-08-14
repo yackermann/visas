@@ -17,6 +17,6 @@ from tools import tools
       
 if __name__ == '__main__':
     arguments = docopt(__doc__, version='tool 0.1')
-    print(arguments)
+    # print(arguments)
     if(arguments["build"]):
       tools.build(arguments)
