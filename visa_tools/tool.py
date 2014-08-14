@@ -1,42 +1,22 @@
+
+
 """tool
 
 Usage:
-  tool.py build geo
-  tool.py build info
-  tool.py build visa
-  tool.py build validate
-
+  tool.py build [ --geo | --info | --visa | --validate ]
+  tool.py geo add <cc2> <name> [--default-policy=<type>] [--default-requirement=<type>]
 Options:
   -h --help     Show this screen.
   --version     Show version.
-
+  -p --default-policy=<type>
+  -r --default-requirement=<type>
 """
 
 from docopt import docopt
-import os
-import json
-import datetime
-
+from tools import tools
+      
 if __name__ == '__main__':
     arguments = docopt(__doc__, version='tool 0.1')
     print(arguments)
-
-class tool:
-  def __init__(self):
-    pass
-
-  class build:
-    def __init__(self):
-      pass
-
-    def geo():
-      pass
-
-    def info():
-      pass
-
-    def visa():
-      pass
-
-    def validate():
-      pass
+    if(arguments["build"]):
+      tools.build(arguments)
