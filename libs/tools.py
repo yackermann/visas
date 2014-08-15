@@ -42,8 +42,8 @@ class tools:
           if file.endswith('.json'):
             with open(folder + '/' + file) as f:
               if(i == 'geo'):
-                data[i] = {"type" : "FeatureCollection","features": []}
-                data[i]['features'].append(json.loads(f.read())["features"][0])
+                data[i] = {'type' : 'FeatureCollection','features': []}
+                data[i]['features'].append(json.loads(f.read())['features'][0])
               elif(i == 'info'):
                 data[i] = json.loads(f.read())
               else:
@@ -55,6 +55,10 @@ class tools:
           w.write(json.dumps(data[i]))
         print('Building ' + i + ' complete.')
 
+      if not chosen:
+        self.todo(data)
+
+
 
     def validate(self, chosen=None):
       b = '=========================='
@@ -62,9 +66,9 @@ class tools:
       folders = [chosen] if chosen else ['visa','geo']
       for i in folders:
         folder = 'data/' + i
-        print(b + "\nStarting to validate " + i + '\n')
+        print(b + '\nStarting to validate ' + i + '\n')
         for file in os.listdir(folder):
-          if file.endswith(".json"):
+          if file.endswith('.json'):
             try:
               data = ''
               with open(folder + '/' + file) as f:
@@ -77,3 +81,25 @@ class tools:
               print('Error while validating file: ' + folder + '/' + file)
         print('\nValidation of ' + i + ' data completed.\n' + b)
       return er
+
+    def todo(self, data):
+      todo_str = ''
+      tododata = {
+        'geo' : [],
+        'visa': []
+      }
+      print('Generating todo...')
+      for i in data['visa']:
+        tododata['visa'].append(i['cca2'])
+
+      for i in data['geo']['features']:
+        tododata['geo'].append(i['id'])
+
+      for i in tododata:
+        todo_str += '### Todo for ' + i + ' data\n'
+        for n in data['info']:
+          if n['cca2'] not in tododata[i]:
+            todo_str += '- ' + n['cca2'] + '\t:\t' + n['name'] + '\n'
+      with open('TODO.md','w') as w:
+        w.write(todo_str)
+      print('Generating todo complete.')
