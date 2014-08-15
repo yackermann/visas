@@ -7,7 +7,7 @@ class tools:
     pass
 
   class builder:
-    def __init__(self, opt):
+    def __init__(self, opt={}):
       if(not opt['--geo'] and not opt['--info'] and 
         not opt['--validate'] and not opt['--visa']):
         if not self.validate():
@@ -103,3 +103,68 @@ class tools:
       with open('TODO.md','w') as w:
         w.write(todo_str)
       print('Generating todo complete.')
+
+  class visa:
+    def __init__(self, opt):
+      self.__options = opt
+      if(opt['add']):
+        self.add()
+      elif(opt['set']):
+        self.set()
+      elif(opt['rm']):
+        self.rm()
+
+    def add(self):
+      defaults = {
+        'p': self.__options['--default-policy'],
+        'r': self.__options['--default-requirement']
+      }
+
+      data = {}
+      cca2 = self.__options['<cca2>'].upper()
+      data[cca2] = {'cca2': cca2,'cca3': '','ccn3': '','name': self.__options['<name>'],'rank': 0,'requirements': {}}
+
+      root = 'data/visa' 
+      folder = root + '/' + cca2 + '.visa.json'
+      try:
+        # print(file)
+        with open(folder) as r:
+          print('Error. ' + cca2 + ' : ' + data[cca2]['name'] + ' already exists.')
+      except (OSError, IOError) as e:
+        print('Creating ' + data[cca2]['name'] + '...')
+        if not tools.builder.validate('', 'visa'):
+          keys = []
+          for file in os.listdir(root):
+            if file.endswith('.visa.json'):
+              with open(root + '/' + file) as f:
+                item = json.loads(f.read())
+                data[item['cca2']] = item
+
+          keys = list(data.keys())
+          for i in data:
+            if i != cca2:
+              data[i]['requirements'][cca2] = {
+                'note': '',
+                'time': '',
+                'type': defaults['p'] if defaults['p'] else 'r'
+              }
+            else:
+              for k in keys:
+                if k != cca2:
+                  data[cca2]['requirements'][k] = {
+                    'note': '',
+                    'time': '',
+                    'type': defaults['r'] if defaults['r'] else 'r'
+                  }
+
+            with open(root + '/' + i + '.visa.json', 'w') as w:
+              w.write(json.dumps(data[i], sort_keys=True, indent=4, separators=(',', ': ')))
+              print('Done ' + data[i]['name'])
+          print('All done!')
+        else:
+          print('\nError while adding. Some files have failed validating.')
+    def set(self):
+      print('set')
+
+    def rm(self):
+      print('rm')

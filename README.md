@@ -24,8 +24,10 @@ DFGD - De facto geo data
 
 ##### Other projects used:
 * https://github.com/mledoze/countries
+* https://github.com/docopt/docopt
 
 ##### Useful links:
 * http://geojson.io/
 * http://geojson.org/
+* http://docopt.org/
 * https://en.wikipedia.org/wiki/Category:Visa_requirements_by_nationality
