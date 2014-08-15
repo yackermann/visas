@@ -57,11 +57,12 @@ class tools:
 
 
     def validate(self, chosen=None):
+      b = '=========================='
       er = False
       folders = [chosen] if chosen else ['visa','geo']
       for i in folders:
         folder = 'data/' + i
-        print("Starting to validate " + i + '\n')
+        print(b + "\nStarting to validate " + i + '\n')
         for file in os.listdir(folder):
           if file.endswith(".json"):
             try:
@@ -74,5 +75,5 @@ class tools:
             except:
               er = True
               print('Error while validating file: ' + folder + '/' + file)
-      print('\nValidation of ' + i + ' data completed.\n')
+        print('\nValidation of ' + i + ' data completed.\n' + b)
       return er
