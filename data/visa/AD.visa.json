@@ -10,10 +10,20 @@
             "time": "",
             "type": "r"
         },
+        "AD": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
         "AE": {
             "note": "",
             "time": "30 Day(s)",
             "type": "a"
+        },
+        "AF": {
+            "note": "",
+            "time": "",
+            "type": "r"
         },
         "AG": {
             "note": "",
@@ -1036,6 +1046,11 @@
             "type": "r"
         },
         "SR": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "SS": {
             "note": "",
             "time": "",
             "type": "r"

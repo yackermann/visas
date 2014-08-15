@@ -20,6 +20,11 @@
             "time": "30 Day(s)",
             "type": "a"
         },
+        "AF": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
         "AG": {
             "note": "",
             "time": "3 Month(s)",
@@ -925,6 +930,11 @@
             "time": "",
             "type": "d"
         },
+        "PT": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
         "PW": {
             "note": "",
             "time": "30 Day(s)",
@@ -1036,6 +1046,11 @@
             "type": "r"
         },
         "SR": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "SS": {
             "note": "",
             "time": "",
             "type": "r"

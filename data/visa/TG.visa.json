@@ -20,6 +20,11 @@
             "time": "",
             "type": "r"
         },
+        "AF": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
         "AG": {
             "note": "",
             "time": "",
@@ -1045,6 +1050,11 @@
             "time": "",
             "type": "r"
         },
+        "SS": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
         "ST": {
             "note": "Registration made by airline.",
             "time": "1 Month(s)",
@@ -1081,6 +1091,11 @@
             "type": "f"
         },
         "TF": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "TG": {
             "note": "",
             "time": "",
             "type": "r"

@@ -20,6 +20,11 @@
             "time": "",
             "type": "r"
         },
+        "AF": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
         "AG": {
             "note": "",
             "time": "3 Month(s)",
@@ -680,6 +685,11 @@
             "time": "",
             "type": "f"
         },
+        "LV": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
         "LY": {
             "note": "",
             "time": "",
@@ -1036,6 +1046,11 @@
             "type": "r"
         },
         "SR": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "SS": {
             "note": "",
             "time": "",
             "type": "r"

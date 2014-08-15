@@ -20,6 +20,11 @@
             "time": "",
             "type": "r"
         },
+        "AF": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
         "AG": {
             "note": "",
             "time": "1 Month(s)",
@@ -700,6 +705,11 @@
             "time": "",
             "type": "r"
         },
+        "MD": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
         "ME": {
             "note": "Visa exemption of 7 days if holding US or Schengen visa.",
             "time": "",
@@ -1036,6 +1046,11 @@
             "type": "r"
         },
         "SR": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "SS": {
             "note": "",
             "time": "",
             "type": "r"

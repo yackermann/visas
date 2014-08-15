@@ -20,6 +20,11 @@
             "time": "",
             "type": "r"
         },
+        "AF": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
         "AG": {
             "note": "",
             "time": "",
@@ -830,6 +835,11 @@
             "time": "",
             "type": "r"
         },
+        "NI": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
         "NL": {
             "note": "",
             "time": "90 Day(s)",
@@ -1036,6 +1046,11 @@
             "type": "r"
         },
         "SR": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "SS": {
             "note": "",
             "time": "",
             "type": "r"

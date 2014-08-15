@@ -20,6 +20,11 @@
             "time": "",
             "type": "r"
         },
+        "AF": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
         "AG": {
             "note": "",
             "time": "",
@@ -84,6 +89,11 @@
             "note": "",
             "time": "30 Day(s)",
             "type": "a"
+        },
+        "BA": {
+            "note": "",
+            "time": "",
+            "type": "r"
         },
         "BB": {
             "note": "",
@@ -1036,6 +1046,11 @@
             "type": "r"
         },
         "SR": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "SS": {
             "note": "",
             "time": "",
             "type": "r"

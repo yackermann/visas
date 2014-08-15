@@ -20,6 +20,11 @@
             "time": "30 Day(s)",
             "type": "a"
         },
+        "AF": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
         "AG": {
             "note": "",
             "time": "3 Month(s)",
@@ -284,6 +289,11 @@
             "note": "",
             "time": "",
             "type": "f"
+        },
+        "DE": {
+            "note": "",
+            "time": "",
+            "type": "r"
         },
         "DJ": {
             "note": "",
@@ -1036,6 +1046,11 @@
             "type": "r"
         },
         "SR": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "SS": {
             "note": "",
             "time": "",
             "type": "r"

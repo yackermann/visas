@@ -20,6 +20,11 @@
             "time": "30 Day(s)",
             "type": "a"
         },
+        "AF": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
         "AG": {
             "note": "",
             "time": "1 Month(s)",
@@ -650,6 +655,11 @@
             "time": "6 Week(s)",
             "type": "f"
         },
+        "LI": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
         "LK": {
             "note": "",
             "time": "",
@@ -1036,6 +1046,11 @@
             "type": "r"
         },
         "SR": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "SS": {
             "note": "",
             "time": "",
             "type": "r"

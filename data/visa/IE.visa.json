@@ -20,6 +20,11 @@
             "time": "30 Day(s)",
             "type": "a"
         },
+        "AF": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
         "AG": {
             "note": "",
             "time": "1 Month(s)",
@@ -514,6 +519,11 @@
             "note": "",
             "time": "30 Day(s)",
             "type": "a"
+        },
+        "IE": {
+            "note": "",
+            "time": "",
+            "type": "r"
         },
         "IL": {
             "note": "",
@@ -1036,6 +1046,11 @@
             "type": "r"
         },
         "SR": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "SS": {
             "note": "",
             "time": "",
             "type": "r"

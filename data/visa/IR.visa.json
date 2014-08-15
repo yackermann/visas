@@ -20,6 +20,11 @@
             "time": "",
             "type": "r"
         },
+        "AF": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
         "AG": {
             "note": "",
             "time": "",
@@ -545,6 +550,11 @@
             "time": "",
             "type": "a"
         },
+        "IR": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
         "IS": {
             "note": "",
             "time": "",
@@ -1036,6 +1046,11 @@
             "type": "r"
         },
         "SR": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "SS": {
             "note": "",
             "time": "",
             "type": "r"

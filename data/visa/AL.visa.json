@@ -20,12 +20,22 @@
             "time": "",
             "type": "r"
         },
+        "AF": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
         "AG": {
             "note": "",
             "time": "1 Month(s)",
             "type": "f"
         },
         "AI": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "AL": {
             "note": "",
             "time": "",
             "type": "r"
@@ -1036,6 +1046,11 @@
             "type": "r"
         },
         "SR": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "SS": {
             "note": "",
             "time": "",
             "type": "r"

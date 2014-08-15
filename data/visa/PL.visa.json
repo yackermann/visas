@@ -20,6 +20,11 @@
             "time": "",
             "type": "r"
         },
+        "AF": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
         "AG": {
             "note": "",
             "time": "3 Month(s)",
@@ -900,6 +905,11 @@
             "time": "30 Day(s)",
             "type": "a"
         },
+        "PL": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
         "PM": {
             "note": "",
             "time": "",
@@ -1036,6 +1046,11 @@
             "type": "r"
         },
         "SR": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "SS": {
             "note": "",
             "time": "",
             "type": "r"

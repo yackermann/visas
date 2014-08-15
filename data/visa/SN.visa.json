@@ -20,6 +20,11 @@
             "time": "",
             "type": "r"
         },
+        "AF": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
         "AG": {
             "note": "",
             "time": "",
@@ -1030,12 +1035,22 @@
             "time": "",
             "type": "r"
         },
+        "SN": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
         "SO": {
             "note": "Except if of Somali origin.",
             "time": "",
             "type": "r"
         },
         "SR": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "SS": {
             "note": "",
             "time": "",
             "type": "r"

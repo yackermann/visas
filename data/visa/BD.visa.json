@@ -20,6 +20,11 @@
             "time": "",
             "type": "r"
         },
+        "AF": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
         "AG": {
             "note": "",
             "time": "",
@@ -94,6 +99,11 @@
             "note": "",
             "time": "6 Month(s)",
             "type": "f"
+        },
+        "BD": {
+            "note": "",
+            "time": "",
+            "type": "r"
         },
         "BE": {
             "note": "",
@@ -1036,6 +1046,11 @@
             "type": "r"
         },
         "SR": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "SS": {
             "note": "",
             "time": "",
             "type": "r"

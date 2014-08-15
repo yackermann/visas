@@ -620,6 +620,11 @@
             "time": "",
             "type": "r"
         },
+        "KR": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
         "KW": {
             "note": "",
             "time": "3 Month(s)",
@@ -1044,6 +1049,11 @@
             "note": "",
             "time": "120 Day(s)",
             "type": "f"
+        },
+        "SS": {
+            "note": "",
+            "time": "",
+            "type": "r"
         },
         "ST": {
             "note": "Registration made by airline.",

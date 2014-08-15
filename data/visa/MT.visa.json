@@ -20,6 +20,11 @@
             "time": "",
             "type": "r"
         },
+        "AF": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
         "AG": {
             "note": "",
             "time": "3 Month(s)",
@@ -770,6 +775,11 @@
             "time": "3 Month(s)",
             "type": "f"
         },
+        "MT": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
         "MU": {
             "note": "",
             "time": "60 Day(s)",
@@ -1036,6 +1046,11 @@
             "type": "r"
         },
         "SR": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "SS": {
             "note": "",
             "time": "",
             "type": "r"

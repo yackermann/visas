@@ -20,6 +20,11 @@
             "time": "",
             "type": "r"
         },
+        "AF": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
         "AG": {
             "note": "",
             "time": "1 Month(s)",
@@ -1045,6 +1050,11 @@
             "time": "",
             "type": "r"
         },
+        "SS": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
         "ST": {
             "note": "Registration made by airline.",
             "time": "1 Month(s)",
@@ -1109,6 +1119,11 @@
             "note": "",
             "time": "30 Day(s)",
             "type": "a"
+        },
+        "TM": {
+            "note": "",
+            "time": "",
+            "type": "r"
         },
         "TN": {
             "note": "Provided holding hotel voucher.",

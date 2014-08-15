@@ -20,6 +20,11 @@
             "time": "30 Day(s)",
             "type": "a"
         },
+        "AF": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
         "AG": {
             "note": "",
             "time": "1 Month(s)",
@@ -995,6 +1000,11 @@
             "time": "3 Month(s)",
             "type": "f"
         },
+        "SG": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
         "SH": {
             "note": "",
             "time": "",
@@ -1039,6 +1049,11 @@
             "note": "",
             "time": "120 Day(s)",
             "type": "f"
+        },
+        "SS": {
+            "note": "",
+            "time": "",
+            "type": "r"
         },
         "ST": {
             "note": "Registration made by airline.",

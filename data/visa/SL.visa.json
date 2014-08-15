@@ -20,6 +20,11 @@
             "time": "",
             "type": "r"
         },
+        "AF": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
         "AG": {
             "note": "",
             "time": "",
@@ -1020,6 +1025,11 @@
             "time": "",
             "type": "r"
         },
+        "SL": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
         "SM": {
             "note": "Same rules as for italy.",
             "time": "",
@@ -1036,6 +1046,11 @@
             "type": "r"
         },
         "SR": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "SS": {
             "note": "",
             "time": "",
             "type": "r"

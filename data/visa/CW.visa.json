@@ -21,6 +21,11 @@
             "time": "30 Day(s)",
             "type": "a"
         },
+        "AF": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
         "AG": {
             "note": "",
             "time": "3 Month(s)",
@@ -221,6 +226,11 @@
             "time": "3 Month(s)",
             "type": "f"
         },
+        "CI": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
         "CK": {
             "note": "",
             "time": "31 Day(s)",
@@ -232,6 +242,11 @@
             "type": "f"
         },
         "CM": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "CN": {
             "note": "",
             "time": "",
             "type": "r"
@@ -253,6 +268,11 @@
         },
         "CV": {
             "note": "Not required for former nationals of cape verde islands. Visa on arrival for those coming from countries where no diplomatic re",
+            "time": "",
+            "type": "r"
+        },
+        "CW": {
+            "note": "",
             "time": "",
             "type": "r"
         },
@@ -931,6 +951,11 @@
             "time": "1 Month(s)",
             "type": "a"
         },
+        "RE": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
         "RO": {
             "note": "",
             "time": "",
@@ -1026,6 +1051,16 @@
             "time": "120 Day(s)",
             "type": "f"
         },
+        "SS": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "ST": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
         "SV": {
             "note": "",
             "time": "3 Month(s)",
@@ -1081,6 +1116,11 @@
             "time": "",
             "type": "r"
         },
+        "TL": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
         "TM": {
             "note": "",
             "time": "",
@@ -1110,6 +1150,11 @@
             "note": "",
             "time": "1 Month(s)",
             "type": "a"
+        },
+        "TW": {
+            "note": "",
+            "time": "",
+            "type": "r"
         },
         "TZ": {
             "note": "",
@@ -1190,6 +1235,11 @@
             "note": "",
             "time": "60 Day(s)",
             "type": "a"
+        },
+        "XK": {
+            "note": "",
+            "time": "",
+            "type": "r"
         },
         "YE": {
             "note": "",

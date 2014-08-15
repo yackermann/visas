@@ -20,6 +20,11 @@
             "time": "",
             "type": "r"
         },
+        "AF": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
         "AG": {
             "note": "",
             "time": "1 Month(s)",
@@ -885,6 +890,11 @@
             "time": "",
             "type": "r"
         },
+        "PG": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
         "PH": {
             "note": "For more than 21 days up to 59 days, visa issued upon arrival.",
             "time": "21 Day(s)",
@@ -1036,6 +1046,11 @@
             "type": "r"
         },
         "SR": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "SS": {
             "note": "",
             "time": "",
             "type": "r"

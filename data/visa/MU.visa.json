@@ -20,6 +20,11 @@
             "time": "",
             "type": "r"
         },
+        "AF": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
         "AG": {
             "note": "",
             "time": "1 Month(s)",
@@ -775,6 +780,11 @@
             "time": "90 Day(s)",
             "type": "f"
         },
+        "MU": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
         "MV": {
             "note": "",
             "time": "30 Day(s)",
@@ -1036,6 +1046,11 @@
             "type": "r"
         },
         "SR": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "SS": {
             "note": "",
             "time": "",
             "type": "r"

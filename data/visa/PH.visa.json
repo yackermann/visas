@@ -20,6 +20,11 @@
             "time": "",
             "type": "r"
         },
+        "AF": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
         "AG": {
             "note": "",
             "time": "",
@@ -890,6 +895,11 @@
             "time": "",
             "type": "r"
         },
+        "PH": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
         "PK": {
             "note": "For business purposes only.",
             "time": "30 Day(s)",
@@ -1039,6 +1049,11 @@
             "note": "",
             "time": "120 Day(s)",
             "type": "f"
+        },
+        "SS": {
+            "note": "",
+            "time": "",
+            "type": "r"
         },
         "ST": {
             "note": "Registration made by airline.",

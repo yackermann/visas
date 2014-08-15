@@ -20,6 +20,11 @@
             "time": "",
             "type": "r"
         },
+        "AF": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
         "AG": {
             "note": "",
             "time": "6 Month(s)",
@@ -565,6 +570,11 @@
             "time": "",
             "type": "r"
         },
+        "JM": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
         "JO": {
             "note": "",
             "time": "",
@@ -1039,6 +1049,11 @@
             "note": "",
             "time": "120 Day(s)",
             "type": "f"
+        },
+        "SS": {
+            "note": "",
+            "time": "",
+            "type": "r"
         },
         "ST": {
             "note": "Registration made by airline.",
