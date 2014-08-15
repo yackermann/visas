@@ -18,14 +18,23 @@ DFGD - De facto geo data
 ##### Contribution: 
 * Any kind of contribuion is welcome. Specially at kipping visa information up to date.
 
+##### Visa types:
+* u - Customs union(e.g. Schengen Zone)
+* f - Visa not required
+* e - Electronic visa required(e.g. ESTA, ETA)
+* o - Visa getting obtained online
+* a - Visa on arrival
+* r - Visa required
+* d - Visa refused(e.g.Iran visa for citizens of Israel)
+
 ##### Building data:
 * Run <code>tool.py build</code> to build compressed version of all countries.
 * Run <code>tool.py build --validate</code> to validate your json and make it nicely aligned.
 
 ##### Modifying data:
-* Run <code>tool.py visa add <cca2> <name></code> to add new visa.
-* Run <code>tool.py visa set <visa_type> <from-cca2> <to-cca2>...</code> to set visa requirement for country to country(s).
-* Run <code>tool.py visa rm <cca2></code> to remove visa.
+* Run <code>tool.py visa add \<cca2\> \<name\>\</code\> to add new visa.
+* Run <code>tool.py visa set \<visa_type\> \<from-cca2\> \<to-cca2\>...</code> to set visa requirement for country to country(s).
+* Run <code>tool.py visa rm \<cca2\></code> to remove visa.
 
 ##### Other projects used:
 * https://github.com/mledoze/countries
