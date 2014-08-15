@@ -6,39 +6,73 @@ class tools:
   def __init__(self):
     pass
 
-  class build:
+  class builder:
     def __init__(self, opt):
       if(not opt['--geo'] and not opt['--info'] and 
         not opt['--validate'] and not opt['--visa']):
-        print("building")
+        if not self.validate():
+          self.build()
+        else: print('\nError while build. Some files have failed validating.')
       else:
-        if(opt['--geo']): self.geo()
-        elif(opt['--info']): self.info()
-        elif(opt['--visa']): self.visa()
-        elif(opt['--validate']): self.validate()
+        if(opt['--geo']): 
+          if not self.validate('geo'): 
+            self.build('geo') 
+          else: print('\nError while build. Some files have failed validating.')
 
-    def geo(self):
-      print("geo")
+        elif(opt['--visa']):
+          if not self.validate('visa'): 
+            self.build('visa') 
+          else: print('\nError while build. Some files have failed validating.')
 
-    def info(self):
-      print("info")
-      
-    def visa(self):
-      print("visa")
+        elif(opt['--info']): 
+          self.build('info')
 
-    def validate(self):
-      for i in ['visa','geo']:
+        elif(opt['--validate']): 
+          self.validate()
+
+    def build(self, chosen=None):
+      data = {}
+      builds = 'dist'
+      folders = [chosen] if chosen else ['visa','geo', 'info']
+      for i in folders:
+        data[i] = []
         folder = 'data/' + i
-        print("Starting to validate " + i)
+        print('Building ' + i + '...')
+        for file in os.listdir(folder):
+          if file.endswith('.json'):
+            with open(folder + '/' + file) as f:
+              if(i == 'geo'):
+                data[i] = {"type" : "FeatureCollection","features": []}
+                data[i]['features'].append(json.loads(f.read())["features"][0])
+              elif(i == 'info'):
+                data[i] = json.loads(f.read())
+              else:
+                data[i].append(json.loads(f.read()))
+
+      for i in data:
+        file = 'world.' + i + '.json'
+        with open(builds + '/' + file, 'w') as w:
+          w.write(json.dumps(data[i]))
+        print('Building ' + i + ' complete.')
+
+
+    def validate(self, chosen=None):
+      er = False
+      folders = [chosen] if chosen else ['visa','geo']
+      for i in folders:
+        folder = 'data/' + i
+        print("Starting to validate " + i + '\n')
         for file in os.listdir(folder):
           if file.endswith(".json"):
             try:
-              data = ""
-              with open(folder + "/"+ file) as f:
+              data = ''
+              with open(folder + '/' + file) as f:
                 data = json.loads(f.read())
 
-              with open(folder + "/"+ file, "w") as w:
+              with open(folder + '/' + file, 'w') as w:
                 w.write(json.dumps(data, sort_keys=True, indent=4, separators=(',', ': ')))
             except:
-              print("Error while validating file: " + folder + "/" + file)
-        print("Validation of " + i + " data completed.")
+              er = True
+              print('Error while validating file: ' + folder + '/' + file)
+      print('\nValidation of ' + i + ' data completed.\n')
+      return er

@@ -4,7 +4,9 @@
 
 Usage:
   tool.py build [ --geo | --info | --visa | --validate ]
-  tool.py geo add <cc2> <name> [--default-policy=<type>] [--default-requirement=<type>]
+  tool.py visa add <cc2> <name> [--default-policy=<visa_type>] [--default-requirement=<visa_type>]
+  tool.py visa set <visa_type> <from-cca2> <to-cca2>... [--cross]
+  tool.py visa rm <cca2>
 Options:
   -h --help     Show this screen.
   --version     Show version.
@@ -17,6 +19,6 @@ from tools import tools
       
 if __name__ == '__main__':
     arguments = docopt(__doc__, version='tool 0.1')
-    # print(arguments)
+    print(arguments)
     if(arguments["build"]):
-      tools.build(arguments)
+      tools.builder(arguments)
