@@ -14,15 +14,15 @@ Options:
   --geo         Validate and build geo  data
   --info        Validate and build info data
   --visa        Validate and build visa data
-  --validate    Validate all data.
+  --validate    Validate all data
 
   visa
-  -p --default-policy=<type>      Sets default visa policy
-  -r --default-requirement=<type> Sets default visa requirement
+  -p --default-policy=<type>      Sets default visa policy      [default: r(required)]
+  -r --default-requirement=<type> Sets default visa requirement [default: r(required)]
   -f --force                      Force
   --cross                         Cross visa set
-  --note=<note>                   Sets note
-  --len=<len>                     Sets visa length
+  --note=<note>                   Sets note        [default: None]
+  --len=<len>                     Sets visa length [default: None]
 """
 
 from libs.docopt import docopt
