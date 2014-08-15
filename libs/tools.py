@@ -190,7 +190,7 @@ class tools:
 
       if allgood:
         print('Setting visa requirements for ' +  defaults['from'] + ' to ' + ','.join(defaults['to']))
-        keys = list(data.keys()) if defaults['cross'] else defaults['from']
+        keys = list(data.keys()) if defaults['cross'] else [defaults['from']]
         for k in keys:
           for i in data:
             if i != k:
