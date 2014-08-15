@@ -1176,9 +1176,9 @@
             "type": "r"
         },
         "US": {
-            "note": "",
+            "note": "Electronic System for Travel Authorization",
             "time": "",
-            "type": "r"
+            "type": "esta"
         },
         "UY": {
             "note": "",

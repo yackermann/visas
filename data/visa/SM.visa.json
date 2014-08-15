@@ -1176,9 +1176,9 @@
             "type": "r"
         },
         "US": {
-            "note": "With Visa Waiver Program.",
-            "time": "90 Day(s)",
-            "type": "f"
+            "note": "Electronic System for Travel Authorization",
+            "time": "",
+            "type": "esta"
         },
         "UY": {
             "note": "Except if born in Uruguay.",
