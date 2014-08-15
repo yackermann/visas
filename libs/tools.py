@@ -117,7 +117,8 @@ class tools:
     def add(self):
       defaults = {
         'p': self.__options['--default-policy'],
-        'r': self.__options['--default-requirement']
+        'r': self.__options['--default-requirement'],
+        'force': self.__options['--force']
       }
 
       data = {}
@@ -128,8 +129,11 @@ class tools:
       folder = root + '/' + cca2 + '.visa.json'
       try:
         # print(file)
-        with open(folder) as r:
-          print('Error. ' + cca2 + ' : ' + data[cca2]['name'] + ' already exists.')
+        if not defaults['force']:
+          with open(folder) as r:
+            print('Error. ' + cca2 + ' : ' + data[cca2]['name'] + ' already exists.')
+        else:
+          raise OSError
       except (OSError, IOError) as e:
         print('Creating ' + data[cca2]['name'] + '...')
         if not tools.builder.validate('', 'visa'):
@@ -160,11 +164,47 @@ class tools:
             with open(root + '/' + i + '.visa.json', 'w') as w:
               w.write(json.dumps(data[i], sort_keys=True, indent=4, separators=(',', ': ')))
               print('Done ' + data[i]['name'])
-          print('All done!')
+          print('Successfully added ' + data[cca2]['name'] + '.')
         else:
           print('\nError while adding. Some files have failed validating.')
+
     def set(self):
-      print('set')
+      defaults = {
+        'from'  : self.__options['<from-cca2>'].upper(),
+        'to'    : list(set(ccn2.upper() for ccn2 in self.__options['<to-cca2>'])),
+        'type'  : self.__options['<visa_type>'],
+        'cross' : self.__options['--cross'],
+        'len'   : self.__options['--len'],
+        'note'  : self.__options['--note']
+      }
+      data = {}
+      root = 'data/visa' 
+      allgood = True
+      for i in defaults['to'] + [defaults['from']]:
+        try:
+            folder = root + '/' + i + '.visa.json'
+            with open(folder) as r:
+              data[i] = json.loads(r.read())
+        except (OSError, IOError) as e:
+          allgood = False
+          print('Failed to load ' + i + '.visa.json')
+
+      if allgood:
+        print('Setting visa requirements for ' +  defaults['from'] + ' to ' + ','.join(defaults['to']))
+        keys = list(data.keys()) if defaults['cross'] else defaults['from']
+        for k in keys:
+          for i in data:
+            data[k]['requirements'][i] = {
+                    'note': defaults['note'] if defaults['note'] else '',
+                    'time': defaults['len'] if defaults['len'] else '',
+                    'type': defaults['type']
+            }
+          with open(root + '/' + k + '.visa.json', 'w') as w:
+              w.write(json.dumps(data[k], sort_keys=True, indent=4, separators=(',', ': ')))
+              print('Done ' + data[k]['name'])
+        print('Successfully set visa requirements for ' +  defaults['from'] + ' to ' + ','.join(defaults['to']))
+      else:
+        print('Some files are missing. Please check again your input.')
 
     def rm(self):
       print('rm')
