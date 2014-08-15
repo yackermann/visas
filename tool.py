@@ -13,8 +13,8 @@ Options:
 
 """
 
-from docopt import docopt
-from tools import tools
+from libs.docopt import docopt
+from libs.tools import tools
       
 if __name__ == '__main__':
     arguments = docopt(__doc__, version='tool 0.3')
