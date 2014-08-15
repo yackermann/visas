@@ -5,6 +5,11 @@
     "name": "Kuwait",
     "rank": 114,
     "requirements": {
+        "AB": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
         "AD": {
             "note": "Apply regulation of France or Spain.",
             "time": "",
@@ -40,6 +45,11 @@
             "time": "",
             "type": "r"
         },
+        "AQ": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
         "AR": {
             "note": "",
             "time": "",
@@ -61,6 +71,11 @@
             "type": "r"
         },
         "AW": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "AX": {
             "note": "",
             "time": "",
             "type": "r"
@@ -115,6 +130,11 @@
             "time": "",
             "type": "r"
         },
+        "BL": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
         "BM": {
             "note": "",
             "time": "",
@@ -130,6 +150,11 @@
             "time": "",
             "type": "r"
         },
+        "BQ": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
         "BR": {
             "note": "",
             "time": "",
@@ -141,6 +166,11 @@
             "type": "f"
         },
         "BT": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "BV": {
             "note": "",
             "time": "",
             "type": "r"
@@ -161,6 +191,11 @@
             "type": "r"
         },
         "CA": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "CC": {
             "note": "",
             "time": "",
             "type": "r"
@@ -235,6 +270,11 @@
             "time": "",
             "type": "r"
         },
+        "CX": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
         "CY": {
             "note": "",
             "time": "",
@@ -290,6 +330,11 @@
             "time": "6 Month(s)",
             "type": "f"
         },
+        "EH": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
         "ER": {
             "note": "",
             "time": "",
@@ -315,10 +360,20 @@
             "time": "",
             "type": "r"
         },
+        "FK": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
         "FM": {
             "note": "",
             "time": "30 Day(s)",
             "type": "f"
+        },
+        "FO": {
+            "note": "",
+            "time": "",
+            "type": "r"
         },
         "FR": {
             "note": "",
@@ -350,6 +405,11 @@
             "time": "",
             "type": "r"
         },
+        "GG": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
         "GH": {
             "note": "",
             "time": "",
@@ -357,6 +417,11 @@
         },
         "GI": {
             "note": "UK visa accepted (must be valid for one year).",
+            "time": "",
+            "type": "r"
+        },
+        "GL": {
+            "note": "",
             "time": "",
             "type": "r"
         },
@@ -370,12 +435,22 @@
             "time": "",
             "type": "r"
         },
+        "GP": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
         "GQ": {
             "note": "",
             "time": "",
             "type": "r"
         },
         "GR": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "GS": {
             "note": "",
             "time": "",
             "type": "r"
@@ -400,10 +475,20 @@
             "time": "",
             "type": "r"
         },
+        "HI": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
         "HK": {
             "note": "",
             "time": "1 Month(s)",
             "type": "f"
+        },
+        "HM": {
+            "note": "",
+            "time": "",
+            "type": "r"
         },
         "HN": {
             "note": "",
@@ -440,8 +525,18 @@
             "time": "",
             "type": "r"
         },
+        "IM": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
         "IN": {
             "note": "Except for those holding a PIO card (Person of Indian Origin).",
+            "time": "",
+            "type": "r"
+        },
+        "IO": {
+            "note": "",
             "time": "",
             "type": "r"
         },
@@ -461,6 +556,11 @@
             "type": "r"
         },
         "IT": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "JE": {
             "note": "",
             "time": "",
             "type": "r"
@@ -605,6 +705,11 @@
             "time": "",
             "type": "r"
         },
+        "MF": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
         "MG": {
             "note": "",
             "time": "90 Day(s)",
@@ -642,6 +747,11 @@
         },
         "MP": {
             "note": "US visa accepted.",
+            "time": "",
+            "type": "r"
+        },
+        "MQ": {
+            "note": "",
             "time": "",
             "type": "r"
         },
@@ -790,6 +900,16 @@
             "time": "",
             "type": "r"
         },
+        "PM": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "PN": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
         "PR": {
             "note": "Except if arriving directly from US.",
             "time": "",
@@ -875,7 +995,17 @@
             "time": "30 Day(s)",
             "type": "f"
         },
+        "SH": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
         "SI": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "SJ": {
             "note": "",
             "time": "",
             "type": "r"
@@ -920,6 +1050,11 @@
             "time": "3 Month(s)",
             "type": "f"
         },
+        "SX": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
         "SY": {
             "note": "",
             "time": "",
@@ -940,6 +1075,11 @@
             "time": "",
             "type": "r"
         },
+        "TF": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
         "TG": {
             "note": "",
             "time": "7 Day(s)",
@@ -954,6 +1094,11 @@
             "note": "",
             "time": "45 Day(s)",
             "type": "a"
+        },
+        "TK": {
+            "note": "",
+            "time": "",
+            "type": "r"
         },
         "TL": {
             "note": "",
@@ -1010,6 +1155,11 @@
             "time": "",
             "type": "a"
         },
+        "UM": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
         "US": {
             "note": "",
             "time": "",
@@ -1059,6 +1209,11 @@
             "note": "",
             "time": "30 Day(s)",
             "type": "f"
+        },
+        "WF": {
+            "note": "",
+            "time": "",
+            "type": "r"
         },
         "WS": {
             "note": "",

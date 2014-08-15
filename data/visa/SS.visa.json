@@ -4,5 +4,161 @@
     "ccn3": "728",
     "name": "South Sudan",
     "rank": 221,
-    "requirements": {}
+    "requirements": {
+        "AB": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "AQ": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "AX": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "BL": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "BQ": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "BV": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "CC": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "CX": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "EH": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "FK": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "FO": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "GG": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "GL": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "GP": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "GS": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "HI": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "HM": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "IM": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "IO": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "JE": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "MF": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "MQ": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "PM": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "PN": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "SH": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "SJ": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "SX": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "TF": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "TK": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "UM": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        },
+        "WF": {
+            "note": "",
+            "time": "",
+            "type": "r"
+        }
+    }
 }

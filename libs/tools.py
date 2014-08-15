@@ -33,16 +33,15 @@ class tools:
     def build(self, chosen=None):
       data = {}
       builds = 'dist'
-      folders = [chosen] if chosen else ['visa','geo', 'info']
+      folders = [chosen] if chosen else ['visa', 'geo', 'info']
       for i in folders:
-        data[i] = []
+        data[i] = [] if i != 'geo' else {'type' : 'FeatureCollection','features': []}
         folder = 'data/' + i
         print('Building ' + i + '...')
         for file in os.listdir(folder):
           if file.endswith('.json'):
             with open(folder + '/' + file) as f:
               if(i == 'geo'):
-                data[i] = {'type' : 'FeatureCollection','features': []}
                 data[i]['features'].append(json.loads(f.read())['features'][0])
               elif(i == 'info'):
                 data[i] = json.loads(f.read())
