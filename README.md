@@ -19,8 +19,8 @@ DFGD - De facto geo data
 * Any kind of contribuion is welcome. Specially at kipping visa information up to date.
 
 ##### Building the data.
-* Run build.py to build compressed version of all countries.
-* Run beauty.py to validate your json and make it nicely aligned.
+* Run <code>tool.py build</code> to build compressed version of all countries.
+* Run <code>tool.py build --validate</code> to validate your json and make it nicely aligned.
 
 ##### Other projects used:
 * https://github.com/herrniemand/countries
