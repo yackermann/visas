@@ -223,8 +223,5 @@ class tools:
                 w.write(json.dumps(temp, sort_keys=True, indent=4, separators=(',', ': ')))
               print(defaults['cca2'] + ' remove from ' + temp['cca2'])
         print(defaults['cca2'] + ' successfully removed.')
-
-
-
       else:
         print('Nothing to delete. File ' + defaults['cca2'] + '.visa.json does not exist.')
