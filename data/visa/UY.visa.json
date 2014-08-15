@@ -56,9 +56,9 @@
             "type": "r"
         },
         "AR": {
-            "note": "",
-            "time": "3 Month(s)",
-            "type": "f"
+            "note": "Mercosur",
+            "time": "",
+            "type": "u"
         },
         "AS": {
             "note": "",
@@ -161,9 +161,9 @@
             "type": "r"
         },
         "BR": {
-            "note": "",
-            "time": "90 Day(s)",
-            "type": "f"
+            "note": "Mercosur",
+            "time": "",
+            "type": "u"
         },
         "BS": {
             "note": "",
@@ -941,9 +941,9 @@
             "type": "a"
         },
         "PY": {
-            "note": "",
-            "time": "90 Day(s)",
-            "type": "f"
+            "note": "Mercosur",
+            "time": "",
+            "type": "u"
         },
         "QA": {
             "note": "",
@@ -1201,9 +1201,9 @@
             "type": "f"
         },
         "VE": {
-            "note": "",
-            "time": "90 Day(s)",
-            "type": "f"
+            "note": "Mercosur",
+            "time": "",
+            "type": "u"
         },
         "VG": {
             "note": "",
