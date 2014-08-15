@@ -193,11 +193,12 @@ class tools:
         keys = list(data.keys()) if defaults['cross'] else defaults['from']
         for k in keys:
           for i in data:
-            data[k]['requirements'][i] = {
-                    'note': defaults['note'] if defaults['note'] else '',
-                    'time': defaults['len'] if defaults['len'] else '',
-                    'type': defaults['type']
-            }
+            if i != k:
+              data[k]['requirements'][i] = {
+                      'note': defaults['note'] if defaults['note'] else '',
+                      'time': defaults['len'] if defaults['len'] else '',
+                      'type': defaults['type']
+              }
           with open(root + '/' + k + '.visa.json', 'w') as w:
               w.write(json.dumps(data[k], sort_keys=True, indent=4, separators=(',', ': ')))
               print('Done ' + data[k]['name'])

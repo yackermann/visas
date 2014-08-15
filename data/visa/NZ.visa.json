@@ -71,9 +71,9 @@
             "type": "f"
         },
         "AU": {
-            "note": "",
+            "note": "Trans-Tasman Travel Arrangement",
             "time": "",
-            "type": "a"
+            "type": "u"
         },
         "AW": {
             "note": "",
@@ -864,11 +864,6 @@
             "note": "",
             "time": "30 Day(s)",
             "type": "f"
-        },
-        "NZ": {
-            "note": "",
-            "time": "",
-            "type": "r"
         },
         "OM": {
             "note": "",

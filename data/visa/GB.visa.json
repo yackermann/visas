@@ -11,9 +11,9 @@
             "type": "r"
         },
         "AD": {
-            "note": "Apply regulation of France or Spain.",
+            "note": "Schengen Agreement",
             "time": "",
-            "type": "r"
+            "type": "u"
         },
         "AE": {
             "note": "",
@@ -66,9 +66,9 @@
             "type": "f"
         },
         "AT": {
-            "note": "",
+            "note": "Schengen Agreement",
             "time": "",
-            "type": "f"
+            "type": "u"
         },
         "AU": {
             "note": "Need electronic travel authority, done by airline.",
@@ -106,9 +106,9 @@
             "type": "a"
         },
         "BE": {
-            "note": "",
-            "time": "90 Day(s)",
-            "type": "f"
+            "note": "Schengen Agreement",
+            "time": "",
+            "type": "u"
         },
         "BF": {
             "note": "Not required in extreme cases.",
@@ -116,9 +116,9 @@
             "type": "r"
         },
         "BG": {
-            "note": "",
-            "time": "90 Day(s)",
-            "type": "f"
+            "note": "Schengen Agreement",
+            "time": "",
+            "type": "u"
         },
         "BH": {
             "note": "",
@@ -221,9 +221,9 @@
             "type": "r"
         },
         "CH": {
-            "note": "",
-            "time": "3 Month(s)",
-            "type": "f"
+            "note": "Schengen Agreement",
+            "time": "",
+            "type": "u"
         },
         "CI": {
             "note": "",
@@ -281,19 +281,19 @@
             "type": "r"
         },
         "CY": {
-            "note": "",
-            "time": "90 Day(s)",
-            "type": "f"
+            "note": "Schengen Agreement",
+            "time": "",
+            "type": "u"
         },
         "CZ": {
-            "note": "",
-            "time": "3 Month(s)",
-            "type": "f"
+            "note": "Schengen Agreement",
+            "time": "",
+            "type": "u"
         },
         "DE": {
-            "note": "",
-            "time": "90 Day(s)",
-            "type": "f"
+            "note": "Schengen Agreement",
+            "time": "",
+            "type": "u"
         },
         "DJ": {
             "note": "",
@@ -301,9 +301,9 @@
             "type": "a"
         },
         "DK": {
-            "note": "",
-            "time": "90 Day(s)",
-            "type": "f"
+            "note": "Schengen Agreement",
+            "time": "",
+            "type": "u"
         },
         "DM": {
             "note": "",
@@ -326,9 +326,9 @@
             "type": "f"
         },
         "EE": {
-            "note": "",
-            "time": "90 Day(s)",
-            "type": "f"
+            "note": "Schengen Agreement",
+            "time": "",
+            "type": "u"
         },
         "EG": {
             "note": "",
@@ -346,9 +346,9 @@
             "type": "r"
         },
         "ES": {
-            "note": "",
-            "time": "3 Month(s)",
-            "type": "f"
+            "note": "Schengen Agreement",
+            "time": "",
+            "type": "u"
         },
         "ET": {
             "note": "",
@@ -356,9 +356,9 @@
             "type": "a"
         },
         "FI": {
-            "note": "",
-            "time": "90 Day(s)",
-            "type": "f"
+            "note": "Schengen Agreement",
+            "time": "",
+            "type": "u"
         },
         "FJ": {
             "note": "",
@@ -381,9 +381,9 @@
             "type": "r"
         },
         "FR": {
-            "note": "",
+            "note": "Schengen Agreement",
             "time": "",
-            "type": "f"
+            "type": "u"
         },
         "GA": {
             "note": "",
@@ -451,9 +451,9 @@
             "type": "r"
         },
         "GR": {
-            "note": "",
+            "note": "Schengen Agreement",
             "time": "",
-            "type": "f"
+            "type": "u"
         },
         "GS": {
             "note": "",
@@ -501,9 +501,9 @@
             "type": "f"
         },
         "HR": {
-            "note": "",
-            "time": "90 Day(s)",
-            "type": "f"
+            "note": "Schengen Agreement",
+            "time": "",
+            "type": "u"
         },
         "HT": {
             "note": "",
@@ -511,9 +511,9 @@
             "type": "f"
         },
         "HU": {
-            "note": "",
-            "time": "90 Day(s)",
-            "type": "f"
+            "note": "Schengen Agreement",
+            "time": "",
+            "type": "u"
         },
         "ID": {
             "note": "",
@@ -521,9 +521,9 @@
             "type": "a"
         },
         "IE": {
-            "note": "",
+            "note": "Schengen Agreement",
             "time": "",
-            "type": "f"
+            "type": "u"
         },
         "IL": {
             "note": "",
@@ -556,14 +556,14 @@
             "type": "r"
         },
         "IS": {
-            "note": "",
+            "note": "Schengen Agreement",
             "time": "",
-            "type": "f"
+            "type": "u"
         },
         "IT": {
-            "note": "",
-            "time": "90 Day(s)",
-            "type": "f"
+            "note": "Schengen Agreement",
+            "time": "",
+            "type": "u"
         },
         "JE": {
             "note": "",
@@ -656,9 +656,9 @@
             "type": "f"
         },
         "LI": {
-            "note": "",
-            "time": "3 Month(s)",
-            "type": "f"
+            "note": "Schengen Agreement",
+            "time": "",
+            "type": "u"
         },
         "LK": {
             "note": "",
@@ -676,19 +676,19 @@
             "type": "f"
         },
         "LT": {
-            "note": "",
-            "time": "90 Day(s)",
-            "type": "f"
+            "note": "Schengen Agreement",
+            "time": "",
+            "type": "u"
         },
         "LU": {
-            "note": "",
-            "time": "3 Month(s)",
-            "type": "f"
+            "note": "Schengen Agreement",
+            "time": "",
+            "type": "u"
         },
         "LV": {
-            "note": "",
-            "time": "90 Day(s)",
-            "type": "f"
+            "note": "Schengen Agreement",
+            "time": "",
+            "type": "u"
         },
         "LY": {
             "note": "",
@@ -701,9 +701,9 @@
             "type": "f"
         },
         "MC": {
-            "note": "",
-            "time": "3 Month(s)",
-            "type": "f"
+            "note": "Schengen Agreement",
+            "time": "",
+            "type": "u"
         },
         "MD": {
             "note": "",
@@ -776,9 +776,9 @@
             "type": "f"
         },
         "MT": {
-            "note": "",
-            "time": "90 Day(s)",
-            "type": "f"
+            "note": "Schengen Agreement",
+            "time": "",
+            "type": "u"
         },
         "MU": {
             "note": "",
@@ -841,14 +841,14 @@
             "type": "f"
         },
         "NL": {
-            "note": "",
-            "time": "90 Day(s)",
-            "type": "f"
+            "note": "Schengen Agreement",
+            "time": "",
+            "type": "u"
         },
         "NO": {
-            "note": "",
-            "time": "3 Month(s)",
-            "type": "f"
+            "note": "Schengen Agreement",
+            "time": "",
+            "type": "u"
         },
         "NP": {
             "note": "",
@@ -906,9 +906,9 @@
             "type": "a"
         },
         "PL": {
-            "note": "",
-            "time": "90 Day(s)",
-            "type": "f"
+            "note": "Schengen Agreement",
+            "time": "",
+            "type": "u"
         },
         "PM": {
             "note": "",
@@ -931,9 +931,9 @@
             "type": "d"
         },
         "PT": {
-            "note": "",
-            "time": "90 Day(s)",
-            "type": "f"
+            "note": "Schengen Agreement",
+            "time": "",
+            "type": "u"
         },
         "PW": {
             "note": "",
@@ -956,9 +956,9 @@
             "type": "f"
         },
         "RO": {
-            "note": "",
-            "time": "90 Day(s)",
-            "type": "f"
+            "note": "Schengen Agreement",
+            "time": "",
+            "type": "u"
         },
         "RS": {
             "note": "",
@@ -996,9 +996,9 @@
             "type": "r"
         },
         "SE": {
-            "note": "",
-            "time": "3 Month(s)",
-            "type": "f"
+            "note": "Schengen Agreement",
+            "time": "",
+            "type": "u"
         },
         "SG": {
             "note": "",
@@ -1011,9 +1011,9 @@
             "type": "r"
         },
         "SI": {
-            "note": "",
-            "time": "90 Day(s)",
-            "type": "f"
+            "note": "Schengen Agreement",
+            "time": "",
+            "type": "u"
         },
         "SJ": {
             "note": "",
@@ -1021,9 +1021,9 @@
             "type": "r"
         },
         "SK": {
-            "note": "",
-            "time": "90 Day(s)",
-            "type": "f"
+            "note": "Schengen Agreement",
+            "time": "",
+            "type": "u"
         },
         "SL": {
             "note": "",
@@ -1191,9 +1191,9 @@
             "type": "r"
         },
         "VA": {
-            "note": "",
+            "note": "Schengen Agreement",
             "time": "",
-            "type": "f"
+            "type": "u"
         },
         "VC": {
             "note": "",
