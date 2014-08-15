@@ -4,17 +4,25 @@ Usage:
   tool.py build [ --geo | --info | --visa | --validate ]
   tool.py visa add <cca2> <name> [--default-policy=<visa_type>] [--default-requirement=<visa_type>] [--force]
   tool.py visa set <visa_type> <from-cca2> <to-cca2>... [--cross] [--note=<note>] [--len=<len>]
-  tool.py visa rm <cca2>
+  tool.py visa rm <cca2> [--force]
+  
 Options:
   -h --help     Show this screen.
   --version     Show version.
+
+  build
   --geo         Validate and build geo  data
   --info        Validate and build info data
   --visa        Validate and build visa data
   --validate    Validate all data.
-  -p --default-policy=<type>
-  -r --default-requirement=<type>
 
+  visa
+  -p --default-policy=<type>      Sets default visa policy
+  -r --default-requirement=<type> Sets default visa requirement
+  -f --force                      Force
+  --cross                         Cross visa set
+  --note=<note>                   Sets note
+  --len=<len>                     Sets visa length
 """
 
 from libs.docopt import docopt

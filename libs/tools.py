@@ -126,11 +126,11 @@ class tools:
       data[cca2] = {'cca2': cca2,'cca3': '','ccn3': '','name': self.__options['<name>'],'rank': 0,'requirements': {}}
 
       root = 'data/visa' 
-      folder = root + '/' + cca2 + '.visa.json'
+      item = root + '/' + cca2 + '.visa.json'
       try:
         # print(file)
         if not defaults['force']:
-          with open(folder) as r:
+          with open(item) as r:
             print('Error. ' + cca2 + ' : ' + data[cca2]['name'] + ' already exists.')
         else:
           raise OSError
@@ -182,8 +182,8 @@ class tools:
       allgood = True
       for i in defaults['to'] + [defaults['from']]:
         try:
-            folder = root + '/' + i + '.visa.json'
-            with open(folder) as r:
+            item = root + '/' + i + '.visa.json'
+            with open(item) as r:
               data[i] = json.loads(r.read())
         except (OSError, IOError) as e:
           allgood = False
@@ -207,4 +207,24 @@ class tools:
         print('Some files are missing. Please check again your input.')
 
     def rm(self):
-      print('rm')
+      defaults = {'cca2':self.__options['<cca2>'],'force':self.__options['--force']}
+      root = 'data/visa' 
+      item = root + '/' + defaults['cca2'] + '.visa.json'
+      data = []
+      if os.path.isfile(item) or defaults['force']:
+        print('Removing ' + defaults['cca2'])
+        if os.path.isfile(item): os.remove(item)
+        for file in os.listdir(root):
+          if file.endswith('.visa.json'):
+            with open(root + '/' + file) as f:
+              temp = json.loads(f.read())
+              temp['requirements'].pop(defaults['cca2'], None)
+              with open(root + '/' + file, 'w') as w:
+                w.write(json.dumps(temp, sort_keys=True, indent=4, separators=(',', ': ')))
+              print(defaults['cca2'] + ' remove from ' + temp['cca2'])
+        print(defaults['cca2'] + ' successfully removed.')
+
+
+
+      else:
+        print('Nothing to delete. File ' + defaults['cca2'] + '.visa.json does not exist.')
