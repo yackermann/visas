@@ -191,9 +191,9 @@
             "type": "a"
         },
         "BZ": {
-            "note": "",
-            "time": "30 Day(s)",
-            "type": "f"
+            "note": "Central American Integration System",
+            "time": "",
+            "type": "u"
         },
         "CA": {
             "note": "",
@@ -311,9 +311,9 @@
             "type": "f"
         },
         "DO": {
-            "note": "",
-            "time": "30 Day(s)",
-            "type": "a"
+            "note": "Central American Integration System",
+            "time": "",
+            "type": "u"
         },
         "DZ": {
             "note": "",
@@ -461,9 +461,9 @@
             "type": "r"
         },
         "GT": {
-            "note": "",
-            "time": "90 Day(s)",
-            "type": "f"
+            "note": "Central American Integration System",
+            "time": "",
+            "type": "u"
         },
         "GU": {
             "note": "Same conditions as for mainland US.",
@@ -496,9 +496,9 @@
             "type": "r"
         },
         "HN": {
-            "note": "",
-            "time": "3 Month(s)",
-            "type": "f"
+            "note": "Central American Integration System",
+            "time": "",
+            "type": "u"
         },
         "HR": {
             "note": "",
@@ -836,9 +836,9 @@
             "type": "r"
         },
         "NI": {
-            "note": "",
+            "note": "Central American Integration System",
             "time": "",
-            "type": "a"
+            "type": "u"
         },
         "NL": {
             "note": "",
@@ -876,9 +876,9 @@
             "type": "r"
         },
         "PA": {
-            "note": "",
-            "time": "30 Day(s)",
-            "type": "f"
+            "note": "Central American Integration System",
+            "time": "",
+            "type": "u"
         },
         "PE": {
             "note": "",
@@ -1061,9 +1061,9 @@
             "type": "a"
         },
         "SV": {
-            "note": "",
-            "time": "3 Month(s)",
-            "type": "f"
+            "note": "Central American Integration System",
+            "time": "",
+            "type": "u"
         },
         "SX": {
             "note": "",
