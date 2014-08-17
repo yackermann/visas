@@ -54,11 +54,6 @@ class tools:
           w.write(json.dumps(data[i]))
         print('Building ' + i + ' complete.')
 
-      if not chosen:
-        self.todo(data)
-
-
-
     def validate(self, chosen=None):
       b = '=========================='
       er = False
@@ -80,28 +75,6 @@ class tools:
               print('Error while validating file: ' + folder + '/' + file)
         print('\nValidation of ' + i + ' data completed.\n' + b)
       return er
-
-    def todo(self, data):
-      todo_str = ''
-      tododata = {
-        'geo' : [],
-        'visa': []
-      }
-      print('Generating todo...')
-      for i in data['visa']:
-        tododata['visa'].append(i['cca2'])
-
-      for i in data['geo']['features']:
-        tododata['geo'].append(i['id'])
-
-      for i in tododata:
-        todo_str += '### Todo for ' + i + ' data\n'
-        for n in data['info']:
-          if n['cca2'] not in tododata[i]:
-            todo_str += '- ' + n['cca2'] + '\t:\t' + n['name'] + '\n'
-      with open('TODO.md','w') as w:
-        w.write(todo_str)
-      print('Generating todo complete.')
 
   class visa:
     def __init__(self, opt):
