@@ -33,7 +33,7 @@ DFGD - De facto geo data
 
 ##### Modifying data:
 * Run <code>tool.py visa add \<cca2\> \<name\></code> to add new visa.
-* Run <code>tool.py visa set \<visa_type\> \<from-cca2\> \<to-cca2\>...</code> to set visa requirement for country to country(s).
+* Run <code>tool.py visa set \<visa_type\> \<from-cca2\> \(--cross \| --requirement \| --policy\) \<to-cca2\>...</code> to set visa requirement for country to country(s).
 * Run <code>tool.py visa rm \<cca2\></code> to remove visa.
 
 ##### Other projects used:

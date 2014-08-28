@@ -142,42 +142,79 @@ class tools:
 
     def set(self):
       defaults = {
-        'from'  : self.__options['<from-cca2>'].upper(),
-        'to'    : list(set(ccn2.upper() for ccn2 in self.__options['<to-cca2>'])),
-        'type'  : self.__options['<visa_type>'],
-        'cross' : self.__options['--cross'],
-        'len'   : self.__options['--len'],
-        'note'  : self.__options['--note']
+        'from'        : self.__options['<from-cca2>'].upper(),
+        'to'          : list(set(ccn2.upper() for ccn2 in self.__options['<to-cca2>'])),
+
+        'cross'       : self.__options['--cross'],
+        'policy'      : self.__options['--policy'],
+        'requirement' : self.__options['--requirement'],
+
+        'type'        : self.__options['<visa_type>'],
+        'time'        : self.__options['--time'],
+        'note'        : self.__options['--note']
+      }
+      template = {
+              'note': defaults['note'] if defaults['note'] else '',
+              'time': defaults['time'] if defaults['time'] else '',
+              'type': defaults['type']
       }
       data = {}
-      root = 'data/visa' 
-      allgood = True
-      for i in defaults['to'] + [defaults['from']]:
-        try:
-            item = root + '/' + i + '.visa.json'
-            with open(item) as r:
-              data[i] = json.loads(r.read())
-        except (OSError, IOError) as e:
-          allgood = False
-          print('Failed to load ' + i + '.visa.json')
+      root = 'data/visa'
 
-      if allgood:
-        print('Setting visa requirements for ' +  defaults['from'] + ' to ' + ','.join(defaults['to']))
-        keys = list(data.keys()) if defaults['cross'] else [defaults['from']]
-        for k in keys:
-          for i in data:
-            if i != k:
-              data[k]['requirements'][i] = {
-                      'note': defaults['note'] if defaults['note'] else '',
-                      'time': defaults['len'] if defaults['len'] else '',
-                      'type': defaults['type']
-              }
-          with open(root + '/' + k + '.visa.json', 'w') as w:
-              w.write(json.dumps(data[k], sort_keys=True, indent=4, separators=(',', ': ')))
-              print('Done ' + data[k]['name'])
-        print('Successfully set visa requirements for ' +  defaults['from'] + ' to ' + ','.join(defaults['to']))
+      def keyser():
+        keys = []
+        if defaults['requirement']:
+          keys = [defaults['from']]
+        else:
+          keys = defaults['to']
+          if defaults['cross']: keys.append(defaults['from'])
+        return keys
+
+      keys = keyser()
+      def checker(tocheck):
+        allgood = True
+        for key in tocheck:
+          try:
+            item = root + '/' + key + '.visa.json'
+            with open(item) as r:
+              data[key] = json.loads(r.read())
+          except (OSError, IOError) as e:
+            allgood = False
+            print('Failed to load ' + key + '.visa.json')
+        return allgood
+
+      def msg(k):
+        vpc = ''
+        if defaults['requirement']: vpc = 'set visa requirement for ' +  defaults['from'] + ' to ' + k
+        elif defaults['policy']: vpc = 'set visa policy of ' +  defaults['from'] + ' to ' + k
+        else: vpc = 'done ' + k
+        print('Successfully ' + vpc)
+
+      if checker(keys):
+        if defaults['requirement']:   #Requirement
+          for key in defaults['to']:
+            data[keys[0]]['requirements'][key] = template
+            msg(key)
+
+        elif defaults['policy']:      #Policy
+          for key in keys:
+            data[key]['requirements'][defaults['from']] = template
+            msg(key)
+
+        else:                         #Cross
+          for key in keys:
+            for k in keys:
+              if k != key:
+                data[key]['requirements'][k] = template
+                msg(key)
+
+        for key in keys:
+          item = root + '/' + key + '.visa.json'
+          with open(item, 'w') as w:
+            w.write(json.dumps(data[key], sort_keys=True, indent=4, separators=(',', ': ')))
       else:
-        print('Some files are missing. Please check again your input.')
+        print('Some files are missing. Please check your input again.')
+
 
     def rm(self):
       defaults = {'cca2':self.__options['<cca2>'],'force':self.__options['--force']}
