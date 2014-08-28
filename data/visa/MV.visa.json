@@ -785,11 +785,6 @@
             "time": "60 Day(s)",
             "type": "f"
         },
-        "MV": {
-            "note": "",
-            "time": "",
-            "type": "r"
-        },
         "MW": {
             "note": "",
             "time": "90 Day(s)",
