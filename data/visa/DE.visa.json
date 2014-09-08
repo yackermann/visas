@@ -71,9 +71,9 @@
             "type": "u"
         },
         "AU": {
-            "note": "Need electronic travel authority, done by airline.",
+            "note": "Electronic Travel Authority",
             "time": "",
-            "type": "f"
+            "type": "e"
         },
         "AW": {
             "note": "",

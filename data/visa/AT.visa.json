@@ -66,9 +66,9 @@
             "type": "f"
         },
         "AU": {
-            "note": "Need electronic travel authority, done by airline.",
+            "note": "Electronic Travel Authority",
             "time": "90 Day(s)",
-            "type": "f"
+            "type": "e"
         },
         "AW": {
             "note": "",
