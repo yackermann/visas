@@ -1,12 +1,12 @@
-DFGD - De facto geo data
+visas in JSON
 ==============
 
-##### A **de-facto** geo data progect
+##### A **visa** data progect
 
 ##### What do I do in this project?
 * I provide data about visa requirements for citizens of a different countries.
 * I provide geographical data according to the **[de facto](https://en.wikipedia.org/wiki/De_facto)**, not **[de jure](https://en.wikipedia.org/wiki/De_jure)** status of territory.
-* If you need geo data with **de jure** status, use https://github.com/mledoze/countries
+* If you need geo data with **de jure** status, please use https://github.com/mledoze/countries
 * This is an **apolitical** project.
 
 ##### Where I can find the data?
