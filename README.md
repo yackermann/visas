@@ -16,16 +16,16 @@ visas in JSON
 * Compressed version of the data can be found in **dist/** folder
 
 ##### Contribution: 
-* Any kind of contribuion is welcome. Specially at kipping visa information up to date.
+* Any kind of contribution is welcome. Specially at keeping visa information up to date.
 
 ##### Visa types:
-* u - Customs union(e.g. Schengen Zone)
+* u - Customs union (e.g. Schengen Zone)
 * f - Visa not required
-* e - Electronic visa required(e.g. ESTA, ETA)
+* e - Electronic visa required (e.g. ESTA, ETA)
 * o - Visa getting obtained online
 * a - Visa on arrival
 * r - Visa required
-* d - Visa refused(e.g.Iran visa for citizens of Israel)
+* d - Visa refused (e.g.Iran visa for citizens of Israel)
 
 ##### Building data:
 * Run <code>tool.py build</code> to build compressed version of all countries.
